@@ -124,7 +124,7 @@ Nov. 2013 - | **Linguistic Consultant**
 present     | Vietnamese Lexicography Centre
 Jan. 2018 - | **Organiser**
 Mar. 2019   | Cambridge Code-switching Reading group
-Nov. 2016 - | **Writer/ Editor**
+Nov. 2016 - | **Writer/Editor**
 Dec. 2018   | Journal of Cambridge Language Sciences
 2015 | **Reviewer**
      | M/C - A Journal of Media and Culture Vol. 18, No. 4
@@ -138,9 +138,9 @@ The British Philological Society <br>
 
 # Skills
 
-**Languages**: Vietnamese (native), English (proficient), Gamilaraay (intermediate), Korean (upper beginner) <br>
-**Computing**: LaTeX, R, Praat, ELAN <br>
-**Interests**: Baking, Knitting, Painting, Pottery <br>
+**Languages** | Vietnamese (native), English (proficient), Gamilaraay (intermediate), Korean (upper beginner) <br>
+**Computing** | LaTeX, R, Praat, ELAN <br>
+**Interests** | Baking, Knitting, Painting, Pottery <br>
 
 # Contact
 
