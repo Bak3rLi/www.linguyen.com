@@ -132,5 +132,5 @@ The British Philological Society \
 
 # Contact
 
-(+44) 07460-707689
+(+44) 07460-707689 \
 nhbn2@cam.ac.uk
