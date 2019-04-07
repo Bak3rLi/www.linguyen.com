@@ -118,11 +118,11 @@ Jan 2011   | Ngunnawal Centre, University of Canberra, Australia
 
 # Outreach
 
-Jan. 2018 - | present | **Editor**, Cambridge Occasional Papers in Linguistics (COPiL)
-Nov. 2013 - | present | **Linguistic Consultant**, Vietnamese Lexicography Centre
-Jan. 2018 - | Mar. 2019 | **Organiser**, Cambridge Code-switching Reading group
-Nov. 2016 - | Dec. 2018 | **Writer/ Editor**, Journal of Cambridge Language Sciences
-2015 | | **Reviewer**, M/C - A Journal of Media and Culture Vol. 18, No. 4
+Jan. 2018 - present | **Editor**, Cambridge Occasional Papers in Linguistics (COPiL)
+Nov. 2013 - present | **Linguistic Consultant**, Vietnamese Lexicography Centre
+Jan. 2018 - Mar. 2019 | **Organiser**, Cambridge Code-switching Reading group
+Nov. 2016 - Dec. 2018 | **Writer/ Editor**, Journal of Cambridge Language Sciences
+2015 | **Reviewer**, M/C - A Journal of Media and Culture Vol. 18, No. 4
 
 # Professional Memberships and Affiliations
 
