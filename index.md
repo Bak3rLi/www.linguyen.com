@@ -58,9 +58,13 @@ July 2015 | "Critical Metaphor Analysis from a Communication Perspective: A Case
 
 # Research Appointment
 
+Jan 2016 - Aug 2016 | *Research Assistant*    
+| School of Literature, Languages and Linguistics, ANU, Canberra, Australia
+| • Assisted Dr. Yuko Kinoshita with data collection and storage to simulate a background population for forensic voice 
+
 June 2016 - Sept 2016 | *Visiting Scholar*
 | ARC Centre of Excellence for the Dynamics of Language, Canberra, Australia
-|• Engaged in discussions and the preliminary processing of speech data in the ARC-funded project *Sydney Speaks: Language variation and change in a diverse society.*  
+|+ Engaged in discussions and the preliminary processing of speech data in the ARC-funded project *Sydney Speaks: Language variation and change in a diverse society.*  
 Sponsors: Prof. Catherine Travis and Prof. Jane Simpson
 Jan 2016 - Aug 2016 | *Research Assistant*    
 | School of Literature, Languages and Linguistics, ANU, Canberra, Australia
