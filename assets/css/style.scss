@@ -31,7 +31,7 @@ header, section {
 }
 
 header, footer {
-    width: 30%;
+    width: 18%;
 }
 
 section {
@@ -77,6 +77,7 @@ h2, h3, h4, h5, h6 {
 
 .menu-item a {
     color: gray;
+    text-decoration: none;
 }
 
 .menu-item a:hover, a:focus {
