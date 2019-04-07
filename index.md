@@ -60,6 +60,8 @@ July 2015 | "Critical Metaphor Analysis from a Communication Perspective: A Case
 
 June 2016 - Sept 2016 | *Visiting Scholar*
 | ARC Centre of Excellence for the Dynamics of Language, Canberra, Australia
+|+ Engaged in discussions and the preliminary processing of speech data in the ARC-funded project *Sydney Speaks: Language variation and change in a diverse society.*  
+
 
 # Teaching Appointment
 
@@ -114,18 +116,18 @@ Nov. 2016 - Dec. 2018 | *Writer/ Editor*, Journal of Cambridge Language Sciences
 
 # Professional Memberships and Affiliations
 
-ARC Centre of Excellence for the Dynamics of Language, ANU branch \
-The Linguistics Association of Great Britain (LAGB) \
-The Australian Linguistic Society (ALS) \
-The British Philological Society \
+ARC Centre of Excellence for the Dynamics of Language, ANU branch <br>
+The Linguistics Association of Great Britain (LAGB) <br>
+The Australian Linguistic Society (ALS) <br>
+The British Philological Society <br>
 
 # Skills
 
-*Languages*: Vietnamese (native), English (proficient), Gamilaraay (intermediate), Korean (upper beginner) \
-*Computing*: LaTeX, R, Praat, ELAN \
-*Interests*: Baking, Knitting, Painting, Pottery \
+*Languages*: Vietnamese (native), English (proficient), Gamilaraay (intermediate), Korean (upper beginner) <br>
+*Computing*: LaTeX, R, Praat, ELAN <br>
+*Interests*: Baking, Knitting, Painting, Pottery <br>
 
 # Contact
 
-(+44) 07460-707689 \
+(+44) 07460-707689 <br>
 nhbn2@cam.ac.uk
