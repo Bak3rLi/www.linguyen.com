@@ -1,3 +1,7 @@
+---
+title: 
+---
+
 # Research Statement
 
 I am broadly interested in language variation and change, socio-linguistics, corpus linguistics, and Natural Language Processing toolkits for spoken varieties of low-resourced languages. Much of my work is corpora-based and focuses on contact phenomena in migrant bilingual communities. My PhD explores code-switching patterns across generations in Vietnamese-English bilingual discourse, using an original,  naturalistic corpus of first- and second- generation speakers in Canberra, Australia. 
