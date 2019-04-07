@@ -29,7 +29,7 @@ Dec 2011    | University of Canberra, Australia
 
 ## Peer-reviewed
 
-+ **Nguyen, Li** and Bryant, C. (Under review)."CanVEC - the Canberra Vietnamese-English Code-switching Natural Speech Corpus: Recording, Transcription and Annotation." *Interspeech* (2019), Graz, Austria. 
++ **Nguyen, Li** and Bryant, C. (Under review). "CanVEC - the Canberra Vietnamese-English Code-switching Natural Speech Corpus: Recording, Transcription and Annotation." *Interspeech* (2019), Graz, Austria. 
 + **Nguyen, Li** "Borrowing or Code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38.4, pp.443-466 (2018). 
 + **Nguyen, Li** and McCallum, K. "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2.2, pp.159-176 (2016). 
 + **Nguyen, Li** and McCallum, K. "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11 (2015). Australia and New Zealand: ANZCA.
