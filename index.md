@@ -32,7 +32,7 @@ Jul. 2008 - Dec 2011 | Bachelor of Communications
 
 ## Non peer-reviewed
 
-+ **Nguyen, Li** "The moment of truth: Testing the Matrix Language Frame model in English \textendash\ Vietnamese bilingual speech." *The Philological Society Blog*, November 3 2017, [https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) 
++ **Nguyen, Li** "The moment of truth: Testing the Matrix Language Frame model in English - Vietnamese bilingual speech." *The Philological Society Blog*, November 3 2017, [https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) 
 + **Nguyen, Li** "Did you do it, have you done it, or will you do it? Vietnamese English speakers’ treatment of Tense and Aspect in everyday speech." *Cambridge Language Sciences*, May 2 2017, [http://www.icge.co.uk/languagesciencesblog/?p=1498](http://www.icge.co.uk/languagesciencesblog/?p=1498)
 + **Nguyen, Li** "Singular They is the new black." *Cambridge Language Sciences*, November 16 2016, 
 [http://www.icge.co.uk/languagesciencesblog/?p=1371](http://www.icge.co.uk/languagesciencesblog/?p=1371)
@@ -119,16 +119,16 @@ Nov. 2016 - Dec. 2018 | *Writer/ Editor*, Journal of Cambridge Language Sciences
 
 # Professional Memberships and Affiliations
 
-ARC Centre of Excellence for the Dynamics of Language, ANU branch 
-The Linguistics Association of Great Britain (LAGB)
-The Australian Linguistic Society (ALS) 
-The British Philological Society
+ARC Centre of Excellence for the Dynamics of Language, ANU branch \
+The Linguistics Association of Great Britain (LAGB) \
+The Australian Linguistic Society (ALS) \
+The British Philological Society \
 
 # Skills
 
-*Languages*: Vietnamese (native), English (proficient), Gamilaraay (intermediate), Korean (upper beginner) 
-*Computing*: LaTeX, R, Praat, ELAN 
-*Interests*: Baking, Knitting, Painting, Pottery 
+*Languages*: Vietnamese (native), English (proficient), Gamilaraay (intermediate), Korean (upper beginner) \
+*Computing*: LaTeX, R, Praat, ELAN \
+*Interests*: Baking, Knitting, Painting, Pottery \
 
 # Contact
 
