@@ -60,8 +60,7 @@ July 2015 | "Critical Metaphor Analysis from a Communication Perspective: A Case
 
 Jan 2016 - Aug 2016 | *Research Assistant*    
 | School of Literature, Languages and Linguistics, ANU, Canberra, Australia
-| <ul><li>Assisted Dr. Yuko Kinoshita with data collection and storage to simulate a background population for forensic voice</li></ul>
-
+| + Assisted Dr. Yuko Kinoshita with data collection and storage to simulate a background population for forensic voice
 June 2016 - Sept 2016 | *Visiting Scholar*
 | ARC Centre of Excellence for the Dynamics of Language, Canberra, Australia
 | + Engaged in discussions and the preliminary processing of speech data in the ARC-funded project *Sydney Speaks: Language variation and change in a diverse society.*  
@@ -79,7 +78,7 @@ Jan 2014 - Dec 2017 | *Research Assistant*
 Oct 2017 - Dec 2017 | *Undergraduate Supervisor*
 | University of Cambridge, UK 
 | *Li4, History and Varieties of English*
-|+ Facilitated student discussion in supervisions, managed general student enquiries, marked assessments and monitored student progress. 
+| + Facilitated student discussion in supervisions, managed general student enquiries, marked assessments and monitored student progress. 
 Jan 2013 - Jan 2016 | *Head Tutor*
 | University of Canberra, Australia 
 | *Risk, Crisis and Communication* (third year, 60 students) 
@@ -103,10 +102,9 @@ Jan 2010 - Jan 2011  | *Tutor*
 2016 - 2019 | Cambridge PhD full award *Cambridge International Scholarship*
 | + Awarded by the Cambridge Trust (GBP 102,828)
 2017 | Conference Travel Grant to ISB 11 in Limerick, Ireland
-| <ul> 
-  <li> Awarded by Churchill College, University of Cambridge (GBP 350) </li>
-  <li> Awarded by the British Philological Society (GBP 500) </li>
-  <li> Awarded by Cambridge Department of Theoretical and Applied Linguistics (GBP 150). </li>
+| + Awarded by Churchill College, University of Cambridge (GBP 350) </li>
+| + Awarded by the British Philological Society (GBP 500) </li>
+| + Awarded by Cambridge Department of Theoretical and Applied Linguistics (GBP 150). </li>
 2017 | Fieldwork Grant
 | + Awarded by Faculty of Modern and Medieval Languages, University of Cambridge (GBP 2150)
 | + Awarded by the British Philological Society (GBP 1000)
