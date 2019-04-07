@@ -99,7 +99,7 @@ Jan 2011   | Ngunnawal Centre, University of Canberra, Australia
 | - with Dr Theresa Biberauer, Dr Christopher Bryant, & Sana Kidwai 
 | + Awarded by Cambridge Language Sciences Interdisciplinary Research Centre (GBP 2,500)
 | + Project title: *Automatically standardising two multilingual code-switched corpora*.
-2016 - 2019 | *Cambridge PhD full award *Cambridge International Scholarship**
+2016 - 2019 | Cambridge PhD full award *Cambridge International Scholarship*
 | + Awarded by the Cambridge Trust (GBP 102,828)
 2017 | *Conference Travel Grant to ISB 11 in Limerick, Ireland*
 | + Awarded by Churchill College, University of Cambridge (GBP 350)
