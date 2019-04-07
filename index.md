@@ -38,6 +38,7 @@ Jul. 2008 - Dec 2011 | Bachelor of Communications
 [http://www.icge.co.uk/languagesciencesblog/?p=1371](http://www.icge.co.uk/languagesciencesblog/?p=1371)
 
 # Conferences & Invited Talks
+
 June 2018 | "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana" 
 | - with O. Mayeux, Code-switching Seminar
 | University of Cambridge, UK
@@ -57,12 +58,9 @@ June 2016 - Sept 2016 | *Visiting Scholar*
 | ARC Centre of Excellence for the Dynamics of Language, Canberra, Australia
 | + Engaged in discussions and the preliminary processing of speech data in the ARC-funded project *Sydney Speaks: Language variation and change in a diverse society.*  
 Sponsors: Prof. Catherine Travis and Prof. Jane Simpson
-\end{itemize} 
-
 Jan 2016 - Aug 2016 | *Research Assistant*    
 | School of Literature, Languages and Linguistics, ANU, Canberra, Australia
 | + Assisted Dr. Yuko Kinoshita with data collection and storage to simulate a background population for forensic voice comparison concerning accented speech.
-
 Jan 2014 - Dec 2017 | *Research Assistant*
 | Arts and Communications, University of Canberra, Canberra, Australia
 | + Assisted Dr. Cathy Hope with managing data collection and analysis for a pilot study on undergraduate student learning experience.
@@ -119,7 +117,7 @@ Jan. 2018 - Mar. 2019 | *Organiser*, Cambridge Code-switching Reading group
 Nov. 2016 - Dec. 2018 | *Writer/ Editor*, Journal of Cambridge Language Sciences
 2015 | *Reviewer*, M/C - A Journal of Media and Culture Vol. 18, No. 4
 
-# Professional Memberships & Affiliations
+# Professional Memberships and Affiliations
 
 ARC Centre of Excellence for the Dynamics of Language, ANU branch 
 The Linguistics Association of Great Britain (LAGB)
