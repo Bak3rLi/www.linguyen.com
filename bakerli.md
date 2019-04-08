@@ -1,4 +1,4 @@
-# BakerLi stories
+# Once upon a time at BakerLi...
 
 BakerLi has been a dream for a very long time, either on the highland of Scotland or in a rural town in the South Island of New Zealand.
 
