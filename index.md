@@ -18,7 +18,7 @@ I am particularly interested in projects to do with language contact, language v
 
 # Research
 ## Current Projects
-*Automatically standardising two multilingual code-switched corpora* 
+**_Automatically standardising two multilingual code-switched corpora_** 
 
 — with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & Sana Kidwai
 
@@ -26,7 +26,7 @@ In collaboration with [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/)
 
 This work has recently been awarded a grant by the [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund) to further refine and extend its applicability to Hindi-English. The ultimate goal is to eventually create a standardised code-switching corpus of multiple language pairs, where researchers can freely access a large amount of comparable, consistently transcribed and tagged dataset for future research. Once in place, this linguistic repository would also be available not only for linguistic research of different kinds, but also for use in more complex downstream NLP tasks such as speech recognition of accented speech, parsing, and automated translation.
 
-*Migrant and refugee language repertoire* 
+**_Migrant and refugee language repertoire_** 
 
 With a long-standing interest in migrant language practice, I am putting together a research program that systematically investigates how migrant communities foster their language practice. The recent immigration ‘crisis’ in the Western world is in part a struggle of navigating the changing communities as a result of globalisation. Language as an identity and cultural marker has proved a particularly important point of contention in the midst of these changes. As people from different cultures merge, will language boundaries also evaporate? How are linguistic norms re-negotiated and re-defined during this process? 
 
@@ -45,23 +45,22 @@ The project is in its infancy stage, and I welcome interests and collaboration.
 
 ### Non peer-reviewed
 
-+ **Nguyen, Li** "The moment of truth: Testing the Matrix Language Frame model in English - Vietnamese bilingual speech." *The Philological Society Blog*, November 3 2017, [https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) 
-+ **Nguyen, Li** "Did you do it, have you done it, or will you do it? Vietnamese English speakers’ treatment of Tense and Aspect in everyday speech." *Cambridge Language Sciences*, May 2 2017, [http://www.icge.co.uk/languagesciencesblog/?p=1498](http://www.icge.co.uk/languagesciencesblog/?p=1498)
-+ **Nguyen, Li** "Singular They is the new black." *Cambridge Language Sciences*, November 16 2016, 
-[http://www.icge.co.uk/languagesciencesblog/?p=1371](http://www.icge.co.uk/languagesciencesblog/?p=1371)
++ **Nguyen, Li** ["The moment of truth: Testing the Matrix Language Frame model in English - Vietnamese bilingual speech."](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) *The Philological Society Blog*, November 3 2017. 
++ **Nguyen, Li** ["Did you do it, have you done it, or will you do it? Vietnamese English speakers’ treatment of Tense and Aspect in everyday speech."](http://www.icge.co.uk/languagesciencesblog/?p=1498) *Cambridge Language Sciences*, May 2 2017.
++ **Nguyen, Li** ["Singular They is the new black."](http://www.icge.co.uk/languagesciencesblog/?p=1371) *Cambridge Language Sciences*, November 16 2016.
 
 ### Conferences & Invited Talks
 
-June 2018 | "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana" 
++ June 2018 | "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana" 
 | - with [O. Mayeux](http://people.ds.cam.ac.uk/ofm23/about.html), Code-switching Seminar
 | University of Cambridge, UK
-Sept 2017 | "Single other language items in bilingual speech: How do we know what we know?"
++ Sept 2017 | "Single other language items in bilingual speech: How do we know what we know?"
 | Linguistics Seminar, Centre of Excellence for the Dynamics of Language 
 | Canberra, Australia
-June 2017 | "Codeswitching or borrowing? A corpus-based study of single Vietnamese kin terms in otherwise English discourse" 
++ June 2017 | "Codeswitching or borrowing? A corpus-based study of single Vietnamese kin terms in otherwise English discourse" 
 | International Symposium on Bilingualism
 | Limerick, Ireland
-July 2015 | "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers."  
++ July 2015 | "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers."  
 | Australian and New Zealand Communication Association Annual Conference (ANZCA)
 | Queenstown, New Zealand
 
