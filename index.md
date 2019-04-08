@@ -30,10 +30,9 @@ This work has recently been awarded a grant by the [Cambridge Language Sciences 
 
 With a long-standing interest in migrant language practice, I am putting together a research program that systematically investigates how migrant communities foster their language practice. The recent immigration ‘crisis’ in the Western world is in part a struggle of navigating the changing communities as a result of globalisation. Language as an identity and cultural marker has proved a particularly important point of contention in the midst of these changes. As people from different cultures merge, will language boundaries also evaporate? How are linguistic norms re-negotiated and re-defined during this process? 
 
-The Migrant Language Repertoire project aims to answer these questions and better our understanding of why and how migrant communities develop their local, or even hybrid, linguistic strategies in specific contexts. The outcome may not only inform linguistic theories, but also provide tangible, empirical evidence to further improve the practice of English teaching and language assessment for migrant and refugees speakers, a particularly challenging area yet still little is known. The situation is further complicated by the fact that migrant and refugee speakers all come from diverse cultural, educational and linguistic backgrounds, possibly with little or no literacy skills, ranging in age from children to senior citizens. Research output from this may inform government language policy in the future. 
+The Migrant and Refugee Language Repertoire project aims to answer these questions and better our understanding of why and how migrant communities develop their local, or even hybrid, linguistic strategies in specific contexts. The outcome may not only inform linguistic theories, but also provide tangible, empirical evidence to further improve the practice of English teaching and language assessment for migrant and refugees speakers, a particularly challenging area yet still little is known. The situation is further complicated by the fact that this minority group of speakers all come from diverse cultural, educational and linguistic backgrounds, possibly with little or no literacy skills, ranging in age from children to senior citizens. Research output from this may help inform government language policy for migrants and refugees in the future. 
 
-I welcome interests and collaboration from suitable parties on this project. 
-
+The project is in its infancy stage, and I welcome interests and collaboration. 
 
 ## Publications
 
