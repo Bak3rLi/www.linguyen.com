@@ -30,7 +30,7 @@ This work has recently been awarded a grant by the [Cambridge Language Sciences 
 
 With a long-standing interest in migrant language practice, I am putting together a research program that systematically investigates how migrant communities foster their language practice. The recent immigration ‘crisis’ in the Western world is in part a struggle of navigating the changing communities as a result of globalisation. Language as an identity and cultural marker has proved a particularly important point of contention in the midst of these changes. As people from different cultures merge, will language boundaries also evaporate? How are linguistic norms re-negotiated and re-defined during this process? 
 
-The Migrant and Refugee Language Repertoire project aims to answer these questions and better our understanding of why and how migrant communities develop their local, or even hybrid, linguistic strategies in specific contexts. The outcome may not only inform linguistic theories, but also provide tangible, empirical evidence to further improve the practice of English teaching and language assessment for migrant and refugees speakers, a particularly challenging area yet still little is known. The situation is further complicated by the fact that this minority group of speakers all come from diverse cultural, educational and linguistic backgrounds, possibly with little or no literacy skills, ranging in age from children to senior citizens. Research output from this may help inform government language policy for migrants and refugees in the future. 
+The Migrant and Refugee Language Repertoire project aims to answer these questions and better our understanding of why and how migrant communities develop their local, or even hybrid, linguistic strategies in specific contexts. The outcome may not only inform linguistic theories, but also provide tangible, empirical evidence to further improve the practice of English teaching and language assessment for migrant and refugee speakers, a particularly challenging area yet still little is known. The situation is further complicated by the fact that this minority group of speakers all come from diverse cultural, educational and linguistic backgrounds, possibly with little or no literacy skills, ranging in age from children to senior citizens. Research output from this may help inform government language policy for migrants and refugees in the future. 
 
 The project is in its infancy stage, and I welcome interests and collaboration. 
 
@@ -38,10 +38,10 @@ The project is in its infancy stage, and I welcome interests and collaboration.
 
 ### Peer-reviewed
 
-+ **Nguyen, Li** and Bryant, C. (Under review)."CanVEC - the Canberra Vietnamese-English Code-switching Natural Speech Corpus: Recording, Transcription and Annotation." *Interspeech* (2019), Graz, Austria. 
++ **Nguyen, Li** and [Bryant, C](https://www.cl.cam.ac.uk/~cjb255/). (Under review)."CanVEC - the Canberra Vietnamese-English Code-switching Natural Speech Corpus: Recording, Transcription and Annotation." *Interspeech* (2019), Graz, Austria. 
 + **Nguyen, Li** "Borrowing or Code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38.4, pp.443-466 (2018). 
-+ **Nguyen, Li** and McCallum, K. "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2.2, pp.159-176 (2016). 
-+ **Nguyen, Li** and McCallum, K. "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11 (2015). Australia and New Zealand: ANZCA.
++ **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2.2, pp.159-176 (2016). 
++ **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11 (2015). Australia and New Zealand: ANZCA.
 
 ### Non peer-reviewed
 
@@ -53,7 +53,7 @@ The project is in its infancy stage, and I welcome interests and collaboration.
 ### Conferences & Invited Talks
 
 June 2018 | "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana" 
-| - with O. Mayeux, Code-switching Seminar
+| - with [O. Mayeux](http://people.ds.cam.ac.uk/ofm23/about.html), Code-switching Seminar
 | University of Cambridge, UK
 Sept 2017 | "Single other language items in bilingual speech: How do we know what we know?"
 | Linguistics Seminar, Centre of Excellence for the Dynamics of Language 
@@ -67,4 +67,4 @@ July 2015 | "Critical Metaphor Analysis from a Communication Perspective: A Case
 
 
 # Contact
-nhbn2 at domain cam.ac.uk
+nhbn2 at cam at ac at uk
