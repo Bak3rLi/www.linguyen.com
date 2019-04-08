@@ -62,4 +62,4 @@ The project is in its infancy stage, and I welcome interests and collaboration.
 
 
 # Contact
-nhbn2 at cam at ac at uk
+nhbn2 at cam dot ac dot uk
