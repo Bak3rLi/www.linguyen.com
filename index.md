@@ -2,9 +2,17 @@
 title: CV
 ---
 
-# Research Statement
+# About
 
-I am broadly interested in language variation and change, socio-linguistics, corpus linguistics, and Natural Language Processing toolkits for spoken varieties of low-resourced languages. Much of my work is corpora-based and focuses on contact phenomena in migrant bilingual communities. My PhD explores code-switching patterns across generations in Vietnamese-English bilingual discourse, using an original,  naturalistic corpus of first- and second- generation speakers in Canberra, Australia. 
+I am a final year PhD candidate in Linguistics at the University of Cambridge. I am also an Affiliate Member of the ARC Centre of Excellence for the Dynamics of Language (CoEDL), and a Linguistic Consultant at the Vietnamese Lexicography Centre, where I oversee its project on the first bidirectional dictionary (English-Vietnamese-English) and engineer several international research collaborations, most recently with Hongkong Polytechnic University on borrowed words in East Asian languages. Previously I was also a Visitor and a Research Assistant at the School of Literature, Languages and Linguistics at the Australian National University (ANU). 
+
+I am broadly interested in language variation and change, socio-linguistics, corpus linguistics, and Natural Language Processing toolkits for spoken varieties of low-resourced languages. Much of my work is corpora-based and focuses on contact phenomena in migrant bilingual communities. My PhD, fully funded by the Cambridge Trust, explores code-switching patterns across generations in Vietnamese-English bilingual discourse, using an original, naturalistic corpus of first and second generation speakers in Canberra, Australia (CanVEC). In collaboration with Dr. Christopher Bryant at the Cambridge Computer Lab, I developed a toolkit to semi-automate language marking, POS tagging and translations for intra-sentential code-switched data. This work has recently been awarded a grant by the Cambridge Language Sciences Incubator Fund to further develop and extend its applicability to other language pairs. The project will be co-led by Dr. Theresa Biberauer, Dr. Christopher Bryant, and Sana Kidwai, and the ultimate goal is to create a standardised code-switching corpus of multiple language pairs, where researchers can freely access a large amount of comparable, consistently transcribed and coded data for future research. 
+
+Before Cambridge, I completed a Master of General and Applied Linguistics (Advanced) at ANU on the variation of kin terms as personal pronouns in Vietnamese-English mixed speech, and also a Bachelor of Arts (Honours I, Communication) on the use of metaphors in Australian news media reporting of maritime asylum seekers, at the University of Canberra.
+
+I am also particularly interested in projects to do with migrant language repertoire and English training for refugees and asylum seekers. I am initiating a research program to systematically investigate specific refuguee- and migrant- learners' needs, thereby better develop teaching and learning materials that can specifically cater for them.
+
+ 
 
 # Education
 
@@ -29,7 +37,7 @@ Dec 2011    | University of Canberra, Australia
 
 ## Peer-reviewed
 
-+ **Nguyen, Li** and Bryant, C. (Under review). "CanVEC - the Canberra Vietnamese-English Code-switching Natural Speech Corpus: Recording, Transcription and Annotation." *Interspeech* (2019), Graz, Austria. 
++ **Nguyen, Li** and Bryant, C. (Under review)."CanVEC - the Canberra Vietnamese-English Code-switching Natural Speech Corpus: Recording, Transcription and Annotation." *Interspeech* (2019), Graz, Austria. 
 + **Nguyen, Li** "Borrowing or Code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38.4, pp.443-466 (2018). 
 + **Nguyen, Li** and McCallum, K. "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2.2, pp.159-176 (2016). 
 + **Nguyen, Li** and McCallum, K. "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11 (2015). Australia and New Zealand: ANZCA.
@@ -118,16 +126,11 @@ Jan 2011   | Ngunnawal Centre, University of Canberra, Australia
 
 # Outreach
 
-Jan. 2018 - | **Editor**
-present     | Cambridge Occasional Papers in Linguistics (COPiL)
-Nov. 2013 - | **Linguistic Consultant**
-present     | Vietnamese Lexicography Centre
-Jan. 2018 - | **Organiser**
-Mar. 2019   | Cambridge Code-switching Reading group
-Nov. 2016 - | **Writer/Editor**
-Dec. 2018   | Journal of Cambridge Language Sciences
-2015 | **Reviewer**
-     | M/C - A Journal of Media and Culture Vol. 18, No. 4
+Jan. 2018 - present | **Editor**, Cambridge Occasional Papers in Linguistics (COPiL)
+Nov. 2013 - present | **Linguistic Consultant**, Vietnamese Lexicography Centre
+Jan. 2018 - Mar. 2019 | **Organiser**, Cambridge Code-switching Reading group
+Nov. 2016 - Dec. 2018 | **Writer/ Editor**, Journal of Cambridge Language Sciences
+2015 | **Reviewer**, M/C - A Journal of Media and Culture Vol. 18, No. 4
 
 # Professional Memberships and Affiliations
 
@@ -138,9 +141,9 @@ The British Philological Society <br>
 
 # Skills
 
-**Languages** | Vietnamese (native), English (proficient), Gamilaraay (intermediate), Korean (upper beginner) <br>
-**Computing** | LaTeX, R, Praat, ELAN <br>
-**Interests** | Baking, Knitting, Painting, Pottery <br>
+**Languages**: Vietnamese (native), English (proficient), Gamilaraay (intermediate), Korean (upper beginner) <br>
+**Computing**: LaTeX, R, Praat, ELAN <br>
+**Interests**: Baking, Knitting, Painting, Pottery <br>
 
 # Contact
 
