@@ -51,18 +51,14 @@ The project is in its infancy stage, and I welcome interests and collaboration.
 
 ### Conferences & Invited Talks
 
-+ June 2018 | "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana" 
-| - with [O. Mayeux](http://people.ds.cam.ac.uk/ofm23/about.html), Code-switching Seminar
-| University of Cambridge, UK
-+ Sept 2017 | "Single other language items in bilingual speech: How do we know what we know?"
-| Linguistics Seminar, Centre of Excellence for the Dynamics of Language 
-| Canberra, Australia
-+ June 2017 | "Codeswitching or borrowing? A corpus-based study of single Vietnamese kin terms in otherwise English discourse" 
-| International Symposium on Bilingualism
-| Limerick, Ireland
-+ July 2015 | "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers."  
-| Australian and New Zealand Communication Association Annual Conference (ANZCA)
-| Queenstown, New Zealand
++ June 2018 "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana" 
+ — with [O. Mayeux](http://people.ds.cam.ac.uk/ofm23/about.html), Code-switching Seminar, University of Cambridge, UK
++ Sept 2017 "Single other language items in bilingual speech: How do we know what we know?"
+Linguistics Seminar, Centre of Excellence for the Dynamics of Language, Canberra, Australia
++ June 2017 "Codeswitching or borrowing? A corpus-based study of single Vietnamese kin terms in otherwise English discourse" 
+International Symposium on Bilingualism, Limerick, Ireland
++ July 2015 "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers." 
+Australian and New Zealand Communication Association Annual Conference (ANZCA), Queenstown, New Zealand
 
 
 # Contact
