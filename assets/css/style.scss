@@ -12,6 +12,7 @@ html, body {
 body {
     padding-top: 0;
     font-size: 12pt;
+    color: black;
 }
 
 .title {
@@ -87,11 +88,11 @@ h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: black;
+    color: #0366d6;
 }
 
 a:hover, a:focus {
-    color: black;
+    color: #0366d6;
     font-weight: normal;
     text-decoration: underline;
 }
