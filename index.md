@@ -4,9 +4,9 @@ title: CV
 
 # About
 
-I am a final year PhD candidate in Linguistics at the University of Cambridge. I am also an Affiliate Member of the ARC Centre of Excellence for the Dynamics of Language (CoEDL), and a Linguistic Consultant at the Vietnamese Lexicography Centre, where I oversee its project on the first bidirectional dictionary (English-Vietnamese-English) and engineer several international research collaborations, most recently with Hongkong Polytechnic University on borrowed words in East Asian languages. Previously I was also a Visitor and a Research Assistant at the School of Literature, Languages and Linguistics at the Australian National University (ANU). I am broadly interested in language variation and change, socio-linguistics, corpus linguistics, and Natural Language Processing toolkits for spoken varieties of low-resourced languages. Much of my work is corpora-based and focuses on contact phenomena in migrant bilingual communities. 
+I am a final year PhD candidate in Linguistics at the University of Cambridge. I am also an Affiliate Member of the ARC Centre of Excellence for the Dynamics of Language (CoEDL), and a Linguistic Consultant at the Vietnamese Lexicography Centre, where I oversee its project on the first bidirectional dictionary (English-Vietnamese-English) and engineer several international research collaborations, most recently with Hongkong Polytechnic University on borrowed words in East Asian languages. Previously I was also a Visitor and a Research Assistant at the School of Literature, Languages and Linguistics at the Australian National University (ANU). 
 
-My PhD, fully funded by the Cambridge Trust, explores code-switching patterns across generations in Vietnamese-English bilingual discourse, using an original, naturalistic corpus of first and second generation speakers in Canberra, Australia (CanVEC). In collaboration with Dr. Christopher Bryant at the Cambridge Computer Lab, I developed a toolkit to semi-automate language marking, POS tagging and translations for intra-sentential code-switched data. This work has recently been awarded a grant by the Cambridge Language Sciences Incubator Fund to further develop and extend its applicability to other language pairs. The project will be co-led by Dr. Theresa Biberauer, Dr. Christopher Bryant, and Sana Kidwai, and the ultimate goal is to create a standardised code-switching corpus of multiple language pairs, where researchers can freely access a large amount of comparable, consistently transcribed and coded data for future research. 
+I am broadly interested in language variation and change, socio-linguistics, corpus linguistics, and Natural Language Processing toolkits for spoken varieties of low-resourced languages. Much of my work is corpora-based and focuses on contact phenomena in migrant bilingual communities. My PhD, fully funded by the Cambridge Trust, explores code-switching patterns across generations in Vietnamese-English bilingual discourse, using an original, naturalistic corpus of first and second generation speakers in Canberra, Australia (CanVEC). 
 
 Before Cambridge, I completed a Master of General and Applied Linguistics (Advanced) at ANU on the variation of kin terms as personal pronouns in Vietnamese-English mixed speech, and also a Bachelor of Arts (Honours I, Communication) on the use of metaphors in Australian news media reporting of maritime asylum seekers, at the University of Canberra.
 
@@ -146,6 +146,4 @@ The British Philological Society <br>
 **Interests**: Baking, Knitting, Painting, Pottery <br>
 
 # Contact
-
-(+44) 07460-707689 <br>
-nhbn2@cam.ac.uk
+nhbn2 at cam.ac.uk
