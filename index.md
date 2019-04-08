@@ -18,26 +18,6 @@ In collaboration with Dr. Christopher Bryant at the Cambridge Computer Lab, I de
 
 I am also initiating a research program to systematically investigate refuguee- and migrant- learners' needs, thereby developing better teaching and learning materials that can specifically cater for this minority group of speakers.  
 
- 
-
-# Education
-
-Oct. 2016 - | **Doctor of Philosophy in Linguistics**
-Present     | Department of Theoretical and Applied Linguistics, University of Cambridge, UK
-| Supervisors: Dr. Theresa Biberauer & Dr. Henriette Hendriks
-| Expected to graduate in 2020
-Feb. 2015 - | **Masters in General and Applied Linguistics (Advanced)**
-Jul. 2016   | School of Literature, Languages, and Linguistics
-| The Australian National University, Australia
-| Supervisor: Prof. Catherine Travis
-| First class, High Distinction average
-Jul. 2013 - | **Bachelor of Arts (Honours)**  
-Dec 2014    | University of Canberra, Australia
-| Supervisor: Prof. Kerry McCallum
-| First class Honours, High Distinction average
-Jul. 2008 - | Bachelor of Communications
-Dec 2011    | University of Canberra, Australia
-| Major in Public Relations, Distinction average
 
 # Publications
 
@@ -70,83 +50,6 @@ July 2015 | "Critical Metaphor Analysis from a Communication Perspective: A Case
 | Australian and New Zealand Communication Association Annual Conference (ANZCA)
 | Queenstown, New Zealand
 
-# Research Appointment
-
-June 2016 - | **Visiting Scholar**
-Sept 2016   | ARC Centre of Excellence for the Dynamics of Language, Canberra, Australia
-| + Engaged in discussions and the preliminary processing of speech data in the ARC-funded project *Sydney Speaks: Language variation and change in a diverse society.*  
-| Sponsors: Prof. Catherine Travis and Prof. Jane Simpson
-Jan 2016 - | **Research Assistant**    
-Aug 2016   | School of Literature, Languages and Linguistics, ANU, Canberra, Australia
-| + Assisted Dr. Yuko Kinoshita with data collection and storage to simulate a background population for forensic voice comparison concerning accented speech.
-Jan 2014 - | **Research Assistant**
-Dec 2017   | Arts and Communications, University of Canberra, Canberra, Australia
-| + Assisted Dr. Cathy Hope with managing data collection and analysis for a pilot study on undergraduate student learning experience.
-| + Assisted Dr. Bethaney Turner with reviewing the literature, recruiting participants, collecting and analysing data, and organising conferences for a wide range of interstate and international projects, primarily on urban sociology.
-
-# Teaching Appointment
-
-Oct 2017 - | **Undergraduate Supervisor**
-Dec 2017   | University of Cambridge, UK 
-| *Li4, History and Varieties of English*
-| + Facilitated student discussion in supervisions, managed general student enquiries, marked assessments and monitored student progress. 
-Jan 2013 - | **Head Tutor**
-Jan 2016   | University of Canberra, Australia 
-| *Risk, Crisis and Communication* (third year, 60 students) 
-| *Foundations of Research* (first year, 300 students)
-| *Introduction to Communication* (first year, 300 students)
-| + Co-designed course assessments with lecturers
-| + Managed the online learning Moodle site
-| + Coordinated general communication between other tutors and lecturers
-| + Managed marking moderation 
-| + Monitored students’ progress. 
-Jan 2010 - | **Tutor**
-Jan 2011   | Ngunnawal Centre, University of Canberra, Australia
-| + Mentored Aboriginal and Indigenous students with learning difficulties.
-
-# Selected Grants and Awards
-
-2019 | *Language Sciences Research Incubator Fund*
-| - with Dr Theresa Biberauer, Dr Christopher Bryant, & Sana Kidwai 
-| + Awarded by Cambridge Language Sciences Interdisciplinary Research Centre (GBP 2,500)
-| + Project title: *Automatically standardising two multilingual code-switched corpora*.
-2016 - 2019 | Cambridge PhD full award *Cambridge International Scholarship*
-| + Awarded by the Cambridge Trust (GBP 102,828)
-2017 | *Conference Travel Grant to ISB 11 in Limerick, Ireland*
-| + Awarded by Churchill College, University of Cambridge (GBP 350)
-| + Awarded by the British Philological Society (GBP 500)
-| + Awarded by Cambridge Department of Theoretical and Applied Linguistics (GBP 150).
-2017 | *Fieldwork Grant*
-| + Awarded by Faculty of Modern and Medieval Languages, University of Cambridge (GBP 2150)
-| + Awarded by the British Philological Society (GBP 1000)
-| + Awarded by Department of Theoretical and Applied Linguistics, University of Cambridge (GBP 350).
-2015 | *Conference Travel Grant to ANZCA in Queenstown, New Zealand*
-|+ Awarded by Faculty of Arts and Design, University of Canberra (AUD 3000)
-2014 | *Honours Dissemination Grant*
-| + Awarded by Faculty of Arts and Design, University of Canberra to outstanding Honours theses (AUD 1000)
-2014 | *Dean's Excellence Award*
-| + Awarded by Faculty of Arts and Design, University of Canberra for outstanding academic achievements 
-
-# Outreach
-
-Jan. 2018 - present | **Editor**, Cambridge Occasional Papers in Linguistics (COPiL)
-Nov. 2013 - present | **Linguistic Consultant**, Vietnamese Lexicography Centre
-Jan. 2018 - Mar. 2019 | **Organiser**, Cambridge Code-switching Reading group
-Nov. 2016 - Dec. 2018 | **Writer/ Editor**, Journal of Cambridge Language Sciences
-2015 | **Reviewer**, M/C - A Journal of Media and Culture Vol. 18, No. 4
-
-# Professional Memberships and Affiliations
-
-ARC Centre of Excellence for the Dynamics of Language, ANU branch <br>
-The Linguistics Association of Great Britain (LAGB) <br>
-The Australian Linguistic Society (ALS) <br>
-The British Philological Society <br>
-
-# Skills
-
-**Languages**: Vietnamese (native), English (proficient), Gamilaraay (intermediate), Korean (upper beginner) <br>
-**Computing**: LaTeX, R, Praat, ELAN <br>
-**Interests**: Baking, Knitting, Painting, Pottery <br>
 
 # Contact
-nhbn2 at cam.ac.uk
+nhbn2 at domain cam.ac.uk
