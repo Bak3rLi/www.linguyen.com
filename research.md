@@ -8,6 +8,8 @@ In collaboration with [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/)
 
 This work has recently been awarded a grant by the [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund) to further refine and extend its applicability to Hindi-English. The ultimate goal is to eventually create a standardised code-switching corpus of multiple language pairs, where researchers can freely access a large amount of comparable, consistently transcribed and tagged dataset for future research. Once in place, this linguistic repository would also be available not only for linguistic research of different kinds, but also for use in more complex downstream NLP tasks such as speech recognition of accented speech, parsing, and automated translation.
 
+The pilot stage of this project is expected to complete by September, 2019. 
+
 **_Migrant and refugee language repertoire_** 
 
 With a long-standing interest in migrant language practice, I am also putting together a research program that systematically investigates how migrant communities foster their language practice. The recent immigration ‘crisis’ in the Western world is in part a struggle of navigating the changing communities as a result of globalisation. Language as an identity and cultural marker has proved a particularly important point of contention in the midst of these changes. As people from different cultures merge, will language boundaries also evaporate? How are linguistic norms re-negotiated and re-defined during this process? 
