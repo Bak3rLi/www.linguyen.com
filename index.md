@@ -6,7 +6,7 @@ title:
 
 Xin chào! Yaama! 
 
-<img src="boat.jpg" width="300" height="300" align="right">
+<img src="boat.jpg" width="300" height="300" align="right" padding-left="25px" padding-bottom="25px">
 
 I am a final year PhD candidate in Linguistics at the [University of Cambridge](https://www.cam.ac.uk/). I am broadly interested in language variation and change, socio-linguistics, corpus linguistics, and Natural Language Processing (NLP) toolkits for spoken varieties of low-resourced languages. Much of my work is corpora-based and focuses on contact phenomena in migrant bilingual communities. My PhD, fully funded by the [Cambridge Trust](https://www.cambridgetrust.org/), explores code-switching patterns across generations in Vietnamese-English bilingual discourse, using an original, naturalistic corpus of first and second generation speakers in [Canberra, Australia](https://www.britannica.com/place/Australian-Capital-Territory#ref960967) (the Canberra Vietnamese-English Code-switching Corpus/CanVEC). 
 
