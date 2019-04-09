@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: Li Nguyen
+plugins:
+  - jekyll-seo-tag
