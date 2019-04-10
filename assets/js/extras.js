@@ -5,6 +5,14 @@ function showMenu(menuOption) {
   });
 }
 
+function get_filename(url) {
+  return url.split('#').shift().split('?').shift().split('/').pop();
+}
+
 function initMenu() {
-  alert("init")
+  current_page = get_filename(document.location.pathname);
+  alert(current_page);
+  $('.main-menu').each(function(i, obj) {
+    alert("HREF:" + get_filename(obj.children("a").href));
+});
 }
