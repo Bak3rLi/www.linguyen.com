@@ -12,7 +12,7 @@ function get_filename(url) {
 function initMenu() {
   current_page = get_filename(document.location.pathname);
   alert(current_page);
-  $('.main-menu').each(function(i, obj) {
-    alert("HREF:" + get_filename(obj.children("a").href));
-});
+  $('.main-menu').each(function(i) {
+    alert("HREF:" + get_filename($(this).children("a").href));
+  });
 }
