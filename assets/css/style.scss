@@ -70,6 +70,11 @@ h2, h3, h4, h5, h6 {
     font-weight: normal;
 }
 
+.sub-menu {
+    font-size: 12pt;
+    padding-left: 10px;
+}
+
 .menu-item {
     display: block;
     padding-bottom: 10px;
@@ -97,7 +102,7 @@ a:hover, a:focus {
     text-decoration: underline;
 }
 
-img {
+#my-picture {
     padding-left: 25px;
     padding-bottom: 25px;
 } 
