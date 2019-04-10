@@ -4,3 +4,7 @@ function showMenu(menuOption) {
     // Animation complete.
   });
 }
+
+function initMenu() {
+  alert("init")
+}
