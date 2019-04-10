@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script
+			  src="https://code.jquery.com/jquery-3.3.1.min.js"
+			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			  crossorigin="anonymous"></script>
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -20,12 +24,12 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         
-        <span class="menu-item"><a href="{{ "/" | absolute_url }}#about">About</a></span>
-        <span class="menu-item"><a href="{{ "/" | absolute_url }}research">Research</a></span>
+        <span class="menu-item" onclick="showMenu(this)"><a href="{{ "/" | absolute_url }}#about">About</a></span>
+        <span class="menu-item" onclick="showMenu(this)"><a href="{{ "/" | absolute_url }}research">Research</a></span>
         <span class="sub-menu menu-item"><a href="{{ "/" | absolute_url }}research#current-projects">Current projects</a></span>
         <span class="sub-menu menu-item"><a href="{{ "/" | absolute_url }}research#publications">Publications</a></span>
-        <span class="menu-item"><a href="{{ "/" | absolute_url }}bakerli">BakerLi</a></span>
-        <span class="menu-item"><a href="{{ "/" | absolute_url }}contact">Contact</a></span>
+        <span class="menu-item" onclick="showMenu(this)"><a href="{{ "/" | absolute_url }}bakerli">BakerLi</a></span>
+        <span class="menu-item" onclick="showMenu(this)"><a href="{{ "/" | absolute_url }}contact">Contact</a></span>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
