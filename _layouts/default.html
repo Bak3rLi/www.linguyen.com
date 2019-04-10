@@ -5,11 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="/assets/js/extras.js"></script>
-    <script
-			  src="https://code.jquery.com/jquery-3.3.1.min.js"
-			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-			  crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
+{% 
+  $menu = [ 
+    "About" => ["#about"],
+    "Research" => ["research", 
+	 [
+	  "Current projects" => "#current-projects",
+	  "Publications" => "#publications"
+	 ]
+    ],
+    "BakerLi" => ["bakerli"],
+    "Contact" => ["contact"]
+  ];
+	  print_r($menu);
+%}
+	  
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
