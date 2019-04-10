@@ -3,10 +3,8 @@ function get_filename(url) {
 }
 
 function initMenu() {
-  current_page = get_filename(document.location.pathname);
   $('.main-menu').each(function(i) {
-    href = get_filename($(this).children("a")[0].href)
-    if (href == current_page) {
+    if ($(this).children("a")[0].href == document.location.href) {
       $(this).nextUntil(".main-menu").attr("style", "display: block !important");
     }
   });
