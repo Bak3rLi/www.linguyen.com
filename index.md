@@ -6,7 +6,7 @@ title: Li Nguyen — Cambridge Linguistics
 
 Xin chào! Yaama! 
 
-<img src="boat.jpg" width="300" height="300" align="right">
+<img id="my-picture" src="boat.jpg" width="300" height="300" align="right">
 
 I am a final year PhD candidate in Linguistics at the [University of Cambridge](https://www.cam.ac.uk/). I am broadly interested in language variation and change, socio-linguistics, corpus linguistics, and Natural Language Processing (NLP) toolkits for spoken varieties of low-resourced languages. Much of my work is corpora-based and focuses on contact phenomena in migrant bilingual communities. My PhD, fully funded by the [Cambridge Trust](https://www.cambridgetrust.org/), explores code-switching patterns across generations in Vietnamese-English bilingual discourse, using an original, naturalistic corpus of first and second generation speakers in [Canberra, Australia](https://www.britannica.com/place/Australian-Capital-Territory#ref960967) (i.e. the Canberra Vietnamese-English Code-switching Corpus/CanVEC). 
 
