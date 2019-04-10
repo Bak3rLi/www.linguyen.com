@@ -1,3 +1,6 @@
 function showMenu(menuOption) {
-  alert(menuOption);
+  $('.sub-menu').hide();
+  menuOption.nextUntil("main-menu").slideDown( "fast", function() {
+    // Animation complete.
+  });
 }
