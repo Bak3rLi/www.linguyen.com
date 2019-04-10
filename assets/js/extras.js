@@ -13,7 +13,7 @@ function initMenu() {
   current_page = get_filename(document.location.pathname);
   alert(current_page);
   $('.main-menu').each(function(i) {
-    alert($(this))
-    //alert("HREF:" + get_filename($(this).children("a").href));
+    alert($(this).children("a"))
+    alert("HREF:" + get_filename($(this).children("a")[0].href));
   });
 }
