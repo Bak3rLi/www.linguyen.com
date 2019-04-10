@@ -3,7 +3,6 @@ function get_filename(url) {
 }
 
 function initMenu(menu) {
-  return;
   current_page = get_filename(document.location.pathname);
   $('.main-menu').each(function(i) {
     href = get_filename($(this).children("a")[0].href)
