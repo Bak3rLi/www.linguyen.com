@@ -7,7 +7,7 @@ function initMenu(menu) {
   $('.main-menu').each(function(i) {
     href = get_filename($(this).children("a")[0].href)
     if (href == current_page) {
-      $(this).nextUntil("main-menu").show();
+      $(this).nextUntil("main-menu").slideDown("fast");
     }
   });
 }
