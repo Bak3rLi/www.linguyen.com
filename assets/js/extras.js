@@ -2,7 +2,7 @@ function get_filename(url) {
   return url.split('#').shift().split('?').shift().split('/').pop();
 }
 
-function initMenu(menu) {
+function initMenu() {
   current_page = get_filename(document.location.pathname);
   $('.main-menu').each(function(i) {
     href = get_filename($(this).children("a")[0].href)
