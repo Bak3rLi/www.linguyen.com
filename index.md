@@ -8,7 +8,7 @@ Xin chào! Yaama!
 
 <img id="my-picture" src="boat.jpg" width="300" height="300" align="right">
 
-I am a sociolinguist specialising in language variation and change, contact linguistics, corpus linguistics, with a keen interest in Natural Language Processing (NLP) toolkits for spoken varieties of low-resourced languages. Much of my work is corpora-based and focuses on contact phenomena in migrant bilingual settings.
+I am a sociolinguist specialising in language variation and change, contact linguistics, corpus linguistics, and Natural Language Processing (NLP) toolkits for spoken varieties of low-resourced languages. Much of my work is corpora-based and focuses on contact phenomena in migrant bilingual settings.
 
 Currently, I am a final year PhD candidate in Linguistics at the [University of Cambridge](https://www.cam.ac.uk/). My PhD, fully funded by the [Cambridge Trust](https://www.cambridgetrust.org/), explores code-switching patterns across generations in the [Canberra](https://www.britannica.com/place/Australian-Capital-Territory#ref960967) Vietnamese community, using an original, naturalistic corpus of spontaneous speech (the Canberra Vietnamese-English Code-switching Corpus/CanVEC). My research specifically considers speakers' variation in both monolingual and bilingual discourse, and asks what these structural differences mean in the broader context of language shift and language change in unstable speech communities. 
 
