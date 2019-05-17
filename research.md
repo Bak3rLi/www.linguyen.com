@@ -27,8 +27,13 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 + **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2.2, pp.159-176 (2016). [[link](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1188229)]
 + **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11 (2015). Australia and New Zealand: ANZCA. [[link](https://www.anzca.net/documents/2015-conf-papers/853-anzca15-nguyen-mccallum/file.html)]
 
+### Editted volume 
+
++ Song, Chenchen, **Nguyen, Li** and Baker, James. Cambridge Occasional Papers in Linguistics COPiL vol. 11. (2019). [[link](http://www.ling.cam.ac.uk/COPIL/archive.html]
+
 ### Non peer-reviewed
 
++ **Nguyen, Li**. (Forthcoming) ["Book review:  Torres Cacoullos, Rena & Travis, Catherine E. 2018, Bilingualism in the Community: Code-switching and Grammars in Contact, Cambridge: Cambridge: University Press. i-240."] *Corpora*, Edinburgh University Press.  
 + **Nguyen, Li** ["The moment of truth: Testing the Matrix Language Frame model in English - Vietnamese bilingual speech."](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) *The Philological Society Blog*, November 3 2017. 
 + **Nguyen, Li** ["Did you do it, have you done it, or will you do it? Vietnamese English speakers’ treatment of Tense and Aspect in everyday speech."](http://www.icge.co.uk/languagesciencesblog/?p=1498) *Cambridge Language Sciences*, May 2 2017.
 + **Nguyen, Li** ["Singular They is the new black."](http://www.icge.co.uk/languagesciencesblog/?p=1371) *Cambridge Language Sciences*, November 16 2016.
