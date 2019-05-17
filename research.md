@@ -29,7 +29,7 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 
 ### Editted volume 
 
-+ Song, Chenchen, **Nguyen, Li** and Baker, James. Cambridge Occasional Papers in Linguistics COPiL vol. 11. (2019). [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
++ Song, Chenchen, **Nguyen, Li** and Baker, James. *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* (2019). [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
 
 ### Non peer-reviewed
 
