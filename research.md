@@ -31,7 +31,7 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 
 + Song, Chenchen, **L. Nguyen** and J. Baker. *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* (2019). [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
 
-### Others
+### Other
 
 + **Nguyen, Li** (Forthcoming) 'Review:  Torres Cacoullos, Rena & Travis, Catherine E. 2018, Bilingualism in the Community: Code-switching and Grammars in Contact, Cambridge: Cambridge: University Press.' *Corpora: Corpus-based Language Learning, Language Processing and Linguistics*, vol 14.2, Edinburgh University Press.  
 + **Nguyen, Li** ['The moment of truth: Testing the Matrix Language Frame model in English - Vietnamese bilingual speech.'](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) *The Philological Society Blog*, November 3 2017. 
