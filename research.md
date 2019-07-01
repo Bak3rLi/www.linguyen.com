@@ -39,7 +39,7 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 
 ### Conferences & Invited Talks
 
-+ June 2019 "Where is the matrix language? Data from the Canberra Vietnamese English corpus (CanVEC)". *Centre of Excellence of the Dynamics of Language*, The Australian National University
++ June 2019 "Where is the matrix language? Data from the Canberra Vietnamese English corpus (CanVEC)". *ARC Centre of Excellence of the Dynamics of Language*, The Australian National University, Canberra, Australia
 + Nov 2018 "Matrix Language variation in a corpus of Vietnamese-English code-switching in Canberra’. *Cambridge Language Sciences Symposium*, University of Cambridge 
 + June 2018 "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana"  
 — with [O. Mayeux](http://people.ds.cam.ac.uk/ofm23/about.html), *Code-switching Seminar*, University of Cambridge, UK
