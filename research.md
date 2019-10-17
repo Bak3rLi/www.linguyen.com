@@ -8,7 +8,7 @@ In collaboration with Christopher Bryant at the Cambridge Computer Lab in 2018, 
 
 This work has recently been awarded a grant by the [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund) to further refine and extend its applicability to Hindi-English. The ultimate goal is to eventually create a standardised code-switching corpus of multiple language pairs, where researchers can freely access a large amount of comparable, consistently transcribed and tagged dataset for future research. Once in place, this linguistic repository would also be available not only for linguistic research of different kinds, but also for use in more complex downstream NLP tasks such as speech recognition of accented speech, parsing, and automated translation.
 
-Part 1 of this pilot project is now completed, and results will be reported at the [Cambridge Language Sciences Annual Symposium 2019](https://www.languagesciences.cam.ac.uk/events/cambridge-language-sciences-annual-symposium-2019)
+Part 1 of this pilot project is now completed, and results will be reported at the [Cambridge Language Sciences Annual Symposium 2019](https://www.languagesciences.cam.ac.uk/events/cambridge-language-sciences-annual-symposium-2019).
 
 **_Migrant and refugee language repertoire_** 
 
