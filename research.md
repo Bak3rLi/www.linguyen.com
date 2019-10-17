@@ -8,7 +8,7 @@ In collaboration with Christopher Bryant at the Cambridge Computer Lab in 2018, 
 
 This work has recently been awarded a grant by the [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund) to further refine and extend its applicability to Hindi-English. The ultimate goal is to eventually create a standardised code-switching corpus of multiple language pairs, where researchers can freely access a large amount of comparable, consistently transcribed and tagged dataset for future research. Once in place, this linguistic repository would also be available not only for linguistic research of different kinds, but also for use in more complex downstream NLP tasks such as speech recognition of accented speech, parsing, and automated translation.
 
-The pilot stage of this project is expected to complete by September, 2019. 
+Part 1 of this pilot project is now completed, and results will be reported at the [Cambridge Language Sciences Annual Symposium 2019](https://www.languagesciences.cam.ac.uk/events/cambridge-language-sciences-annual-symposium-2019)
 
 **_Migrant and refugee language repertoire_** 
 
@@ -27,7 +27,7 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 + **Nguyen, Li** (2016) and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2.2, pp.159-176. [[link](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1188229)]
 + **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry) (2015). "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11. Australia and New Zealand: ANZCA. [[link](https://www.anzca.net/documents/2015-conf-papers/853-anzca15-nguyen-mccallum/file.html)]
 
-### Editted volume 
+### Edited volume 
 
 + Song, Chenchen, **L. Nguyen** and J. Baker (2019) *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
 
