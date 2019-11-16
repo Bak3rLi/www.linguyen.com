@@ -39,7 +39,7 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 
 ### Conferences & Invited Talks
 + Nov 2019 "Automatic Language Identification in Code-Switched Hindi-English Social Media Texts"
-— with [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), [Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/), and [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), *Cambridge Language Sciences Symposium*, University of Cambridge, UK
+— with [S. Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), [C. Bryant](https://www.cl.cam.ac.uk/~cjb255/), and [T. Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), *Cambridge Language Sciences Symposium*, University of Cambridge, UK
 + June 2019 "Where is the matrix language? Data from the Canberra Vietnamese English corpus (CanVEC)". *ARC Centre of Excellence of the Dynamics of Language*, The Australian National University, Canberra, Australia
 + Nov 2018 "Matrix Language variation in a corpus of Vietnamese-English code-switching in Canberra’. *Cambridge Language Sciences Symposium*, University of Cambridge, UK
 + June 2018 "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana"  
