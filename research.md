@@ -2,7 +2,7 @@
 ## Current Projects
 **_Automatically standardising two multilingual code-switched corpora_** 
 
-— with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & Sana Kidwai
+— with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html)
 
 In collaboration with Christopher Bryant at the Cambridge Computer Lab in 2018, I developed a tool to process CanVEC, an originally collected natural code-switched speech corpus for my PhD. Although multilingualism is now the norm, NLP tools capable of processing more than one language per 'sentential unit' are almost non-existent. This necessarily limits important applications such as Machine Translation and Information Retrieval, and also the utility of NLP-based technology in contexts where language-users readily employ two or more languages side by side. We developed an algorithm to semi-automatically annotate the corpus with language information and part-of-speech (POS) tags, obtaining a >90% accuracy rate for almost every task. 
 
@@ -38,7 +38,8 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 + **Nguyen, Li** ['Singular They is the new black.'](http://www.icge.co.uk/languagesciencesblog/?p=1371) *Cambridge Language Sciences*, November 16 2016.
 
 ### Conferences & Invited Talks
-
++ Nov 2019 "Automatic Language Identification in Code-Switched Hindi-English Social Media Texts"
+— with [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), [Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/), and [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), *Cambridge Language Sciences Symposium*, University of Cambridge, UK
 + June 2019 "Where is the matrix language? Data from the Canberra Vietnamese English corpus (CanVEC)". *ARC Centre of Excellence of the Dynamics of Language*, The Australian National University, Canberra, Australia
 + Nov 2018 "Matrix Language variation in a corpus of Vietnamese-English code-switching in Canberra’. *Cambridge Language Sciences Symposium*, University of Cambridge, UK
 + June 2018 "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana"  
