@@ -22,14 +22,14 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 
 ### Articles
 
-+ **Nguyen, Li** (2018) "Borrowing or Code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38.4, pp.443-466. [[link](https://www.tandfonline.com/doi/abs/10.1080/07268602.2018.1510727)] 
-+ **Nguyen, Li** (2016) and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2.2, pp.159-176. [[link](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1188229)]
++ **Nguyen, Li** (2018) "Borrowing or Code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38.4, pp.443-466. doi:10.1080/07268602.2018.1510727 [[link](https://www.tandfonline.com/doi/abs/10.1080/07268602.2018.1510727)] 
++ **Nguyen, Li** (2016) and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2.2, pp.159-176. doi:10.1080/22041451.2016.1188229 [[link](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1188229)]
 
 ### Conference proceedings
 + **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry) (2015). "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11. Australia and New Zealand: ANZCA. [[link](https://www.anzca.net/documents/2015-conf-papers/853-anzca15-nguyen-mccallum/file.html)]
 
 ### Book reviews
-+ **Nguyen, Li** (2019) 'Review:  Torres Cacoullos, Rena & Travis, Catherine E. 2018, Bilingualism in the Community: Code-switching and Grammars in Contact, Cambridge: Cambridge: University Press.' *Corpora: Corpus-based Language Learning, Language Processing and Linguistics*, vol 14.2, pp.265-69, Edinburgh University Press. [[link]](https://www.euppublishing.com/doi/full/10.3366/cor.2019.0171)
++ **Nguyen, Li** (2019) 'Review:  Torres Cacoullos, Rena & Travis, Catherine E. 2018, Bilingualism in the Community: Code-switching and Grammars in Contact, Cambridge: Cambridge: University Press.' *Corpora: Corpus-based Language Learning, Language Processing and Linguistics*, vol 14.2, pp.265-69, Edinburgh University Press. doi:10.3366/cor.2019.0171 [[link]](https://www.euppublishing.com/doi/full/10.3366/cor.2019.0171)
 
 ### Edited volume 
 
