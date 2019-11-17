@@ -14,7 +14,7 @@ Part 1 of this pilot project is now completed, and results will be reported at t
 
 With a long-standing interest in migrant language practice, I am also developing a project that systematically investigates how migrant communities foster their language practice. Ultimately, the recent immigration ‘crisis’ in the Western world is in part a struggle of navigating the changing communities as a result of globalisation; and language as an identity and cultural marker has proved a particularly important point of contention in the midst of these changes. As people from different cultures merge, will language boundaries also evaporate? How are linguistic norms re-negotiated and re-defined during this process? 
 
-The Migrant and Refugee Language Repertoire project aims to answer these questions and better our understanding of why and how migrant communities develop their local, or even hybrid, linguistic strategies in specific contexts. The outcome may not only inform linguistic theories, but also provide empirical evidence to further improve the practice of English teaching and language assessment for migrant and refugee speakers, as well as inform government language policy for this particular group. 
+The Migrant and Refugee Language Repertoire project aims to answer these questions and better our understanding of why and how migrant communities develop their local, or even hybrid, linguistic strategies in specific contexts. The outcome may not only inform linguistic theories, but also provide empirical evidence to further improve Government policy as well as English teaching and language assessment for migrant and refugee speakers. 
 
 This project is in its infancy stage, and I welcome interests and collaboration. 
 
