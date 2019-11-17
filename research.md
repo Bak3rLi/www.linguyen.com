@@ -18,7 +18,7 @@ The Migrant and Refugee Language Repertoire project aims to answer these questio
 
 This project is in its infancy stage, and I welcome interests and collaboration. 
 
-## Peer-reviewed Publications
+## Publications
 
 ### Articles
 
@@ -35,7 +35,7 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 
 + Song, Chenchen, **L. Nguyen** and J. Baker (2019) *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
 
-### Other
+### Outreach
  
 + **Nguyen, Li** ['The moment of truth: Testing the Matrix Language Frame model in English - Vietnamese bilingual speech.'](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) *The Philological Society Blog*, November 3 2017. 
 + **Nguyen, Li** ['Did you do it, have you done it, or will you do it? Vietnamese English speakers’ treatment of Tense and Aspect in everyday speech.'](http://www.icge.co.uk/languagesciencesblog/?p=1498) *Cambridge Language Sciences*, May 2 2017.
