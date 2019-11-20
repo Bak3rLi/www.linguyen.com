@@ -35,17 +35,14 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 
 + Song, Chenchen, **L. Nguyen** and J. Baker (2019) *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
 
-### Outreach
- 
-+ **Nguyen, Li** ['The moment of truth: Testing the Matrix Language Frame model in English - Vietnamese bilingual speech.'](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) *The Philological Society Blog*, November 3 2017. 
-+ **Nguyen, Li** ['Did you do it, have you done it, or will you do it? Vietnamese English speakers’ treatment of Tense and Aspect in everyday speech.'](http://www.icge.co.uk/languagesciencesblog/?p=1498) *Cambridge Language Sciences*, May 2 2017.
-+ **Nguyen, Li** ['Singular They is the new black.'](http://www.icge.co.uk/languagesciencesblog/?p=1371) *Cambridge Language Sciences*, November 16 2016.
-
-### Conferences & Invited Talks
+### Poster
 + Nov 2019 "Automatic Language Identification in Code-Switched Hindi-English Social Media Texts"
 — with [S. Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), [C. Bryant](https://www.cl.cam.ac.uk/~cjb255/), and [T. Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), *Cambridge Language Sciences Symposium*, University of Cambridge, UK
-+ June 2019 "Where is the matrix language? Data from the Canberra Vietnamese English corpus (CanVEC)". *ARC Centre of Excellence of the Dynamics of Language*, The Australian National University, Canberra, Australia
 + Nov 2018 "Matrix Language variation in a corpus of Vietnamese-English code-switching in Canberra’. *Cambridge Language Sciences Symposium*, University of Cambridge, UK
+
+### Conference presentations & Invited Talks
+
++ June 2019 "Where is the matrix language? Data from the Canberra Vietnamese English corpus (CanVEC)". *ARC Centre of Excellence of the Dynamics of Language*, The Australian National University, Canberra, Australia
 + June 2018 "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana"  
 — with [O. Mayeux](http://people.ds.cam.ac.uk/ofm23/about.html), *Code-switching Seminar*, University of Cambridge, UK
 + Sept 2017 "Single other language items in bilingual speech: How do we know what we know?"
@@ -57,3 +54,8 @@ pragmatic norms", *Code-switching Seminar*, University of Cambridge, UK
 + July 2015 "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers." 
 *Australian and New Zealand Communication Association Annual Conference (ANZCA)*, Queenstown, New Zealand
 
+### Outreach
+ 
++ **Nguyen, Li** ['The moment of truth: Testing the Matrix Language Frame model in English - Vietnamese bilingual speech.'](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) *The Philological Society Blog*, November 3 2017. 
++ **Nguyen, Li** ['Did you do it, have you done it, or will you do it? Vietnamese English speakers’ treatment of Tense and Aspect in everyday speech.'](http://www.icge.co.uk/languagesciencesblog/?p=1498) *Cambridge Language Sciences*, May 2 2017.
++ **Nguyen, Li** ['Singular They is the new black.'](http://www.icge.co.uk/languagesciencesblog/?p=1371) *Cambridge Language Sciences*, November 16 2016.
