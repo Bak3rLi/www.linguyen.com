@@ -35,11 +35,6 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 
 + Song, Chenchen, **L. Nguyen** and J. Baker (2019) *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
 
-### Poster
-+ Nov 2019 "Automatic Language Identification in Code-Switched Hindi-English Social Media Texts"
-— with [S. Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), [C. Bryant](https://www.cl.cam.ac.uk/~cjb255/), and [T. Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), *Cambridge Language Sciences Symposium*, University of Cambridge, UK
-+ Nov 2018 "Matrix Language variation in a corpus of Vietnamese-English code-switching in Canberra’. *Cambridge Language Sciences Symposium*, University of Cambridge, UK
-
 ### Conference presentations & Invited Talks
 
 + June 2019 "Where is the matrix language? Data from the Canberra Vietnamese English corpus (CanVEC)". *ARC Centre of Excellence of the Dynamics of Language*, The Australian National University, Canberra, Australia
@@ -53,6 +48,11 @@ This project is in its infancy stage, and I welcome interests and collaboration.
 pragmatic norms", *Code-switching Seminar*, University of Cambridge, UK
 + July 2015 "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers." 
 *Australian and New Zealand Communication Association Annual Conference (ANZCA)*, Queenstown, New Zealand
+
+### Poster
++ Nov 2019 "Automatic Language Identification in Code-Switched Hindi-English Social Media Texts"
+— with [S. Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), [C. Bryant](https://www.cl.cam.ac.uk/~cjb255/), and [T. Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), *Cambridge Language Sciences Symposium*, University of Cambridge, UK
++ Nov 2018 "Matrix Language variation in a corpus of Vietnamese-English code-switching in Canberra’. *Cambridge Language Sciences Symposium*, University of Cambridge, UK
 
 ### Outreach
  
