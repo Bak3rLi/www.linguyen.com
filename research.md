@@ -1,7 +1,7 @@
 # Research
 ## Grant
-— with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html)
-**_Automatically standardising two multilingual code-switched corpora_** [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund)
+— with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), **_Automatically standardising two multilingual code-switched corpora_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund)
+
 Part 1 of this pilot project is now completed, and results have been reported at the [Cambridge Language Sciences Annual Symposium 2019](https://www.languagesciences.cam.ac.uk/events/cambridge-language-sciences-annual-symposium-2019).
 
 ### Articles
