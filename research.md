@@ -1,24 +1,4 @@
-# Research
-## Current Projects
-**_Automatically standardising two multilingual code-switched corpora_** 
-
-— with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html)
-
-In collaboration with Christopher Bryant at the Cambridge Computer Lab in 2018, I developed a tool to process CanVEC, an originally collected natural code-switched speech corpus for my PhD. Although multilingualism is now the norm, NLP tools capable of processing more than one language per 'sentential unit' are almost non-existent. This necessarily limits important applications such as Machine Translation and Information Retrieval, and also the utility of NLP-based technology in contexts where language-users readily employ two or more languages side by side. We developed an algorithm to semi-automatically annotate the corpus with language information and part-of-speech (POS) tags, obtaining a >90% accuracy rate for almost every task. 
-
-This work has recently been awarded a grant by the [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund) to further refine and extend its applicability to Hindi-English. The ultimate goal is to eventually create a standardised code-switching corpus of multiple language pairs, where researchers can freely access a large amount of comparable, consistently transcribed and tagged dataset for future research. Once in place, this linguistic repository would also be available not only for linguistic research of different kinds, but also for use in more complex downstream NLP tasks such as speech recognition of accented speech, parsing, and automated translation.
-
-Part 1 of this pilot project is now completed, and results have been reported at the [Cambridge Language Sciences Annual Symposium 2019](https://www.languagesciences.cam.ac.uk/events/cambridge-language-sciences-annual-symposium-2019).
-
-**_Migrant and refugee language repertoire_** 
-
-With a long-standing interest in migrant language practice, I am also developing a project that systematically investigates how migrant communities foster their language practice. Ultimately, the recent immigration ‘crisis’ in the Western world is in part a struggle of navigating the changing communities as a result of globalisation; and language as an identity and cultural marker has proved a particularly important point of contention in the midst of these changes. As people from different cultures merge, will language boundaries also evaporate? How are linguistic norms re-negotiated and re-defined during this process? 
-
-The Migrant and Refugee Language Repertoire project aims to answer these questions and better our understanding of why and how migrant communities develop their local, or even hybrid, linguistic strategies in specific contexts. The outcome may not only inform linguistic theories, but also provide empirical evidence to further improve Government policy as well as English teaching and language assessment for migrant and refugee speakers. 
-
-This project is in its infancy stage, and I welcome interests and collaboration. 
-
-## Publications
+# Research acitvities
 
 ### Articles
 
