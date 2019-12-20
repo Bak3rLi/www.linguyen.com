@@ -1,10 +1,5 @@
 # Research
-## Grant
-+ with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), **_Automatically standardising two multilingual code-switched corpora_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund), 2019
-+ Cambridge International Scholarship, Cambridge Trust fullly funded PhD Grant (2016-2020)
-+ The Philological Society Fieldwork Grant (2017)
-+ University of Canberra Oustanding Honours Thesis Dissemination Grant (2014)
-
+## Publications
 ### Articles
 
 + **Nguyen, Li** (2018) "Borrowing or Code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38.4, pp.443-466. [doi:10.1080/07268602.2018.1510727](https://www.tandfonline.com/doi/abs/10.1080/07268602.2018.1510727) 
@@ -44,3 +39,9 @@ pragmatic norms", *Code-switching Seminar*, University of Cambridge, UK
 + **Nguyen, Li** ['The moment of truth: Testing the Matrix Language Frame model in English - Vietnamese bilingual speech.'](https://blog.philsoc.org.uk/2017/11/03/english-vietnamese-bilingualism/) *The Philological Society Blog*, November 3 2017. 
 + **Nguyen, Li** ['Did you do it, have you done it, or will you do it? Vietnamese English speakers’ treatment of Tense and Aspect in everyday speech.'](http://www.icge.co.uk/languagesciencesblog/?p=1498) *Cambridge Language Sciences*, May 2 2017.
 + **Nguyen, Li** ['Singular They is the new black.'](http://www.icge.co.uk/languagesciencesblog/?p=1371) *Cambridge Language Sciences*, November 16 2016.
+
+## Research Grants
++ with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), **_Automatically standardising two multilingual code-switched corpora_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund), 2019
++ Cambridge International Scholarship, Cambridge Trust fullly funded PhD Grant, 2016-2020
++ The Philological Society Fieldwork Grant, 2017
++ University of Canberra Oustanding Honours Thesis Dissemination Grant, 2014
