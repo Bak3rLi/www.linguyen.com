@@ -1,9 +1,9 @@
 # Research
 ## Grant
-+ 2019 — with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), **_Automatically standardising two multilingual code-switched corpora_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund)
-+ 2016-2020 Cambridge International Scholarship, Cambridge Trust fullly funded PhD grant 
-+ 2017 The Philological Society Fieldwork Grant 
-+ 2014 University of Canberra Oustanding Honours Thesis Dissemination Grant 
++ with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](http://www.ling.cam.ac.uk/copil/Current_Editors.html), **_Automatically standardising two multilingual code-switched corpora_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund), 2019
++ Cambridge International Scholarship, Cambridge Trust fullly funded PhD Grant (2016-2020)
++ The Philological Society Fieldwork Grant (2017)
++ University of Canberra Oustanding Honours Thesis Dissemination Grant (2014)
 
 ### Articles
 
