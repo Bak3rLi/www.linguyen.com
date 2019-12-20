@@ -1,4 +1,4 @@
-# Research acitvities
+# Published research
 
 ### Articles
 
