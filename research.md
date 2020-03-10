@@ -9,11 +9,11 @@
 + **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry) (2015). "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11. Australia and New Zealand: ANZCA. [[link](https://www.anzca.net/documents/2015-conf-papers/853-anzca15-nguyen-mccallum/file.html)]
 
 ### Book reviews
-+ **Nguyen, Li** (2019) 'Review:  Torres Cacoullos, Rena & Travis, Catherine E. 2018, Bilingualism in the Community: Code-switching and Grammars in Contact, Cambridge: Cambridge: University Press.' *Corpora: Corpus-based Language Learning, Language Processing and Linguistics*, vol 14(2), pp.265-69, Edinburgh University Press. [doi:10.3366/cor.2019.0171](https://www.euppublishing.com/doi/full/10.3366/cor.2019.0171)
++ **Nguyen, Li** (2019) 'Review:  [Torres Cacoullos, Rena](https://sites.psu.edu/rct11/) & [Travis, Catherine E](https://researchers.anu.edu.au/researchers/travis-ce). 2018, Bilingualism in the Community: Code-switching and Grammars in Contact, Cambridge: Cambridge: University Press.' *Corpora: Corpus-based Language Learning, Language Processing and Linguistics*, vol 14(2), pp.265-69, Edinburgh University Press. [doi:10.3366/cor.2019.0171](https://www.euppublishing.com/doi/full/10.3366/cor.2019.0171)
 
 ### Edited volume 
 
-+ Song, Chenchen, **L. Nguyen** and J. Baker (2019) *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
++ [Song, Chenchen](https://www.juliosong.com/), **L. Nguyen** and J. Baker (2019) *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
 
 ### Conference presentations & Invited Talks
 
