@@ -5,7 +5,7 @@
 + **Nguyen, Li** (2016) and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2(2), pp.159-176. [doi:10.1080/22041451.2016.1188229](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1188229)
 
 ### Conference proceedings
-+ **Nguyen, Li** and [Bryant, C](https://www.cl.cam.ac.uk/~cjb255/) (Forthcoming) "CanVEC - the Canberra Vietnamese-English Code-switching Natural Speech Corpus." *Proceedings of the 12th Language Resources and Evaluation Conference (LREC).* 
++ **Nguyen, Li** and [Bryant, C](https://www.cl.cam.ac.uk/~cjb255/) (2020) "CanVEC - the Canberra Vietnamese-English Code-switching Natural Speech Corpus." *Proceedings of the 12th Language Resources and Evaluation Conference (LREC).* pp. 4114‑4122. Marseille, France [[link](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.506.pdf)] 
 + **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry) (2015). "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11. Australia and New Zealand: ANZCA. [[link](https://www.anzca.net/documents/2015-conf-papers/853-anzca15-nguyen-mccallum/file.html)]
 
 ### Book reviews
