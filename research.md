@@ -1,12 +1,12 @@
 # Research
 ## Publications
 ### Articles
-+ **Nguyen, Li** (2018) "Borrowing or Code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38(4), pp.443-466. [doi:10.1080/07268602.2018.1510727](https://www.tandfonline.com/doi/abs/10.1080/07268602.2018.1510727) 
-+ **Nguyen, Li** (2016) and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A Metaphor-led Discourse Analysis of Australian news media reporting on Maritime Asylum Seekers." *Communication Research and Practice* 2(2), pp.159-176. [doi:10.1080/22041451.2016.1188229](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1188229)
++ **Nguyen, Li** (2018) "Borrowing or code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38(4), pp.443-466. [doi:10.1080/07268602.2018.1510727](https://www.tandfonline.com/doi/abs/10.1080/07268602.2018.1510727) 
++ **Nguyen, Li** (2016) and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A metaphor-led discourse analysis of Australian news media reporting on maritime asylum seekers." *Communication Research and Practice* 2(2), pp.159-176. [doi:10.1080/22041451.2016.1188229](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1188229)
 
 ### Conference proceedings
-+ **Nguyen, Li** and [Bryant, C](https://www.cl.cam.ac.uk/~cjb255/) (2020) "CanVEC - the Canberra Vietnamese-English Code-switching Natural Speech Corpus." *Proceedings of the 12th Language Resources and Evaluation Conference (LREC).* pp. 4114‑4122. Marseille, France [[link](https://www.aclweb.org/anthology/2020.lrec-1.507.pdf)] 
-+ **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry) (2015). "Critical Metaphor Analysis from a Communication Perspective: A Case Study of Australian News Media Discourse on Immigration and Asylum Seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11. Australia and New Zealand: ANZCA. [[link](https://www.anzca.net/documents/2015-conf-papers/853-anzca15-nguyen-mccallum/file.html)]
++ **Nguyen, Li** and [Bryant, C](https://www.cl.cam.ac.uk/~cjb255/) (2020) "CanVEC - the Canberra Vietnamese-English code-switching natural speech corpus." *Proceedings of the 12th Language Resources and Evaluation Conference (LREC).* pp. 4114‑4122. Marseille, France [[link](https://www.aclweb.org/anthology/2020.lrec-1.507.pdf)] 
++ **Nguyen, Li** and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry) (2015). "Critical metaphor analysis from a communication perspective: A case study of Australian news media discourse on immigration and asylum seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11. Australia and New Zealand: ANZCA. [[link](https://www.anzca.net/documents/2015-conf-papers/853-anzca15-nguyen-mccallum/file.html)]
 
 ### Book reviews
 + **Nguyen, Li** (2019) 'Review:  [Torres Cacoullos, Rena](https://sites.psu.edu/rct11/) & [Travis, Catherine E](https://researchers.anu.edu.au/researchers/travis-ce). 2018, Bilingualism in the Community: Code-switching and Grammars in Contact, Cambridge: Cambridge: University Press.' *Corpora: Corpus-based Language Learning, Language Processing and Linguistics*, vol 14(2), pp.265-69, Edinburgh University Press. [doi:10.3366/cor.2019.0171](https://www.euppublishing.com/doi/full/10.3366/cor.2019.0171)
@@ -30,9 +30,9 @@ pragmatic norms", *Code-switching Seminar*, University of Cambridge, UK
 *Australian and New Zealand Communication Association Annual Conference (ANZCA)*, Queenstown, New Zealand
 
 ### Poster
-+ Nov 2019 "Automatic Language Identification in Code-Switched Hindi-English Social Media Texts"
++ Nov 2019 "Automatic language identification in code-switched Hindi-English social media texts"
 — with [S. Kidwai](https://sanakidwai.github.io/), [C. Bryant](https://www.cl.cam.ac.uk/~cjb255/), and [T. Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), *Cambridge Language Sciences Symposium*, University of Cambridge, UK
-+ Nov 2018 "Matrix Language variation in a corpus of Vietnamese-English code-switching in Canberra’. *Cambridge Language Sciences Symposium*, University of Cambridge, UK
++ Nov 2018 "Matrix language variation in a corpus of Vietnamese-English code-switching in Canberra’. *Cambridge Language Sciences Symposium*, University of Cambridge, UK
 
 ### Outreach
  
