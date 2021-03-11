@@ -1,5 +1,9 @@
 # Research
 ## Publications
+
+### PhD Thesis
++ **Nguyen, Li** (2020) "Cross-generational linguistic variation in the Canberra Vietnamese heritage language community: A corpus-centred investigation." *University of Cambridge*, Doctoral Thesis. [doi:10.17863/CAM.65721](https://doi.org/10.17863/CAM.65721) 
+
 ### Articles
 + **Nguyen, Li** (2018) "Borrowing or code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38(4), pp.443-466. [doi:10.1080/07268602.2018.1510727](https://www.tandfonline.com/doi/abs/10.1080/07268602.2018.1510727) 
 + **Nguyen, Li** (2016) and [McCallum, K](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A metaphor-led discourse analysis of Australian news media reporting on maritime asylum seekers." *Communication Research and Practice* 2(2), pp.159-176. [doi:10.1080/22041451.2016.1188229](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1188229)
