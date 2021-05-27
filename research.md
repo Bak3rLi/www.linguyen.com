@@ -21,7 +21,7 @@
 ### Conference presentations & Invited Talks
 
 + May 2020 (delayed) "Detecting change in the heritage language: Null subjects and null objects in Canberra Vietnamese"  
-— with Thomas Marge, *Heritage Languages Around the World (HLAW) International Conference*, University of Lisbon, Portugal
+— with T. Marge, *Heritage Languages Around the World (HLAW) International Conference*, University of Lisbon, Portugal
 + June 2019 "Where is the matrix language? Data from the Canberra Vietnamese English corpus (CanVEC)". *ARC Centre of Excellence of the Dynamics of Language*, The Australian National University, Canberra, Australia
 + June 2018 "Unstable bilingual communities in contrast: Vietnamese in Canberra, Creole in Louisiana"  
 — with [O. Mayeux](https://sites.google.com/view/mayeux), *Code-switching Seminar*, University of Cambridge, UK
