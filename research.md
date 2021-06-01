@@ -18,7 +18,7 @@
 
 + [Song, Chenchen](https://www.juliosong.com/), **L. Nguyen** and J. Baker (2019) *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
 
-### Conference presentations & Invited Talks
+### Selected Conference presentations & Invited Talks
 
 + June 2021 "Noncanonical pronominal items in Vietnamese and Chinese: Imposters or true pronouns?"  
 — with [C. Song](https://www.juliosong.com/) *South East Asian Linguistics Society (SEALS) conference*, Online due to Covid. [[link]](https://sites.google.com/site/sealsjournal/seals-and-jseals-history/seals-online-2021/seals-2021-program)
