@@ -20,8 +20,8 @@
 
 ### Conference presentations & Invited Talks
 
-+ June 2021 "Noncanonical pronominal items in Vietnamese and Chinese: Imposters or true pronouns?". 
-- with [C. Song](https://www.juliosong.com/) *South East Asian Linguistics Society (SEALS) conference*, Online due to Covid. [[link]](https://sites.google.com/site/sealsjournal/seals-and-jseals-history/seals-online-2021/seals-2021-program)
++ June 2021 "Noncanonical pronominal items in Vietnamese and Chinese: Imposters or true pronouns?" 
+— with [C. Song](https://www.juliosong.com/) *South East Asian Linguistics Society (SEALS) conference*, Online due to Covid. [[link]](https://sites.google.com/site/sealsjournal/seals-and-jseals-history/seals-online-2021/seals-2021-program)
 + May 2020 (delayed) "Detecting change in the heritage language: Null subjects and null objects in Canberra Vietnamese"  
 — with T. Marge, *Heritage Languages Around the World (HLAW) International Conference*, University of Lisbon, Portugal
 + June 2019 "Where is the matrix language? Data from the Canberra Vietnamese English corpus (CanVEC)". *ARC Centre of Excellence of the Dynamics of Language*, The Australian National University, Canberra, Australia
