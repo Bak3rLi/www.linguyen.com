@@ -5,6 +5,7 @@
 + **Nguyen, Li** (2020) "Cross-generational linguistic variation in the Canberra Vietnamese heritage language community: A corpus-centred investigation." *University of Cambridge*, Doctoral Thesis. [doi:10.17863/CAM.65721](https://doi.org/10.17863/CAM.65721) 
 
 ### Peer-reviewed Articles
++ [Song, Chenchen](https://www.juliosong.com/) and **Nguyen, Li** (Forthcoming) "Noncanonical  pronouns  in  Vietnamese  and  Chinese." *Journal of the South-East Asian Linguistics Society*
 + **Nguyen, Li**, [Bryant, C.](https://www.cl.cam.ac.uk/~cjb255/), [Kidwai, S.](https://sanakidwai.github.io/about.html) and [Biberauer, T.](https://www.mmll.cam.ac.uk/dr-theresa-biberauer) (2021) "Automatic language identification in code-switched Hindi-English social media text." *Journal of Open Humanities Data* 7(7). [doi:10.5334/johd.44](http://doi.org/10.5334/johd.44)
 + **Nguyen, Li** and [Bryant, C.](https://www.cl.cam.ac.uk/~cjb255/) (2020) "CanVEC - the Canberra Vietnamese-English code-switching natural speech corpus." *Proceedings of the 12th Language Resources and Evaluation Conference (LREC).* pp. 4114‑4122. Marseille, France [[link](https://www.aclweb.org/anthology/2020.lrec-1.507.pdf)] 
 + **Nguyen, Li** (2018) "Borrowing or code-switching? Traces of community norms in Vietnamese-English speech." *Australian Journal of Linguistics* 38(4), pp.443-466. [doi:10.1080/07268602.2018.1510727](https://www.tandfonline.com/doi/abs/10.1080/07268602.2018.1510727) 
@@ -48,7 +49,8 @@ pragmatic norms", *Code-switching Seminar*, University of Cambridge, UK
 + **Nguyen, Li** ['Singular They is the new black.'](http://www.icge.co.uk/languagesciencesblog/?p=1371) *Cambridge Language Sciences*, November 16 2016.
 
 ## Selected Research Grants
-+ as co-investigator: with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](https://sanakidwai.github.io/) **_Automatically standardising two multilingual code-switched corpora_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund), 2019 (£2,500)
-+ Cambridge International Scholarship, Cambridge Trust fullly funded PhD Grant, 2016-2020 (£112,500)
-+ The Philological Society Fieldwork Grant, 2017 (£1,000)
-+ University of Canberra Oustanding Honours Thesis Dissemination Grant, 2014 (AUD 1000)
++ as co-investigator: with [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/), [Dr Kayeon Yoo](https://www.phonetics.mmll.cam.ac.uk/staff/kayeon-yoo) & [Katrina Li](https://www.phonetics.mmll.cam.ac.uk/staff/kechunkatrina-li/) **_Using tone to predict code-switching in English-Vietnamese/Cantonese/Mandarin_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund), 2021 
++ as co-investigator: with [Dr Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Dr Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](https://sanakidwai.github.io/) **_Automatically standardising two multilingual code-switched corpora_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund), 2019
++ Cambridge International Scholarship, Cambridge Trust fullly funded PhD Grant, 2016-2020 
++ The Philological Society Fieldwork Grant, 2017 
++ University of Canberra Oustanding Honours Thesis Dissemination Grant, 2014 
