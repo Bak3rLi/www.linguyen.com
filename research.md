@@ -21,7 +21,7 @@
 
 ### Selected Conference presentations & Invited Talks
 + May 2022 "Tonal aspects of Cantonese-English code-switching in HLVC corpus"  
-— with K. Li and [C. Bryant](https://www.cl.cam.ac.uk/~cjb255/) *The 6th Workshop on Innovations in Cantonese Linguistics (WICL6)*, Online due to Covid. [[link]([https://sites.google.com/site/sealsjournal/seals-and-jseals-history/seals-online-2021/seals-2021-program](https://u.osu.edu/wicl/wicl-6/))
+— with K. Li and [C. Bryant](https://www.cl.cam.ac.uk/~cjb255/) *The 6th Workshop on Innovations in Cantonese Linguistics (WICL6)*, Online due to Covid. [[link]([https://sites.google.com/site/sealsjournal/seals-and-jseals-history/seals-online-2021/seals-2021-program](https://u.osu.edu/wicl/wicl-6/))]
 + June 2021 "Noncanonical pronominal items in Vietnamese and Chinese: Imposters or true pronouns?"  
 — with [C. Song](https://www.juliosong.com/) *South East Asian Linguistics Society (SEALS) conference*, Online due to Covid. [[link](https://sites.google.com/site/sealsjournal/seals-and-jseals-history/seals-online-2021/seals-2021-program)]
 + May 2020 (delayed) "Detecting change in the heritage language: Null subjects and null objects in Canberra Vietnamese"  
