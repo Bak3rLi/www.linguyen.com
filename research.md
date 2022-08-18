@@ -6,7 +6,7 @@
 
 ### Selected Articles
 + **Nguyen, Li**, [Yuan, Z.](https://www.cl.cam.ac.uk/~zy249/), and [Seed, G.](https://www.cambridgeenglish.org/research-and-validation/meet-the-team/graham-seed/) (2022) " Building
-Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions." *Languages* 7(220). [doi:10.5334/johd.44](https://doi.org/10.3390/languages7030220)
+Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions." *Languages* 7(220).[doi:10.3390/languages7030220] (https://doi.org/10.3390/languages7030220)
 + [Song, Chenchen](https://www.juliosong.com/) and **Nguyen, Li** (2022) "Noncanonical  pronouns  in  Vietnamese  and  Chinese." *Journal of the South-East Asian Linguistics Society*, Special Publication No.8 - Papers from the 30th meeting, pp.207-232. [[link](https://evols.library.manoa.hawaii.edu/handle/10524/52498)]
 + **Nguyen, Li**, [Bryant, C.](https://www.cl.cam.ac.uk/~cjb255/), [Kidwai, S.](https://sanakidwai.github.io/about.html) and [Biberauer, T.](https://www.mmll.cam.ac.uk/dr-theresa-biberauer) (2021) "Automatic language identification in code-switched Hindi-English social media text." *Journal of Open Humanities Data* 7(7). [doi:10.5334/johd.44](http://doi.org/10.5334/johd.44)
 + **Nguyen, Li** and [Bryant, C.](https://www.cl.cam.ac.uk/~cjb255/) (2020) "CanVEC - the Canberra Vietnamese-English code-switching natural speech corpus." *Proceedings of the 12th Language Resources and Evaluation Conference (LREC).* pp. 4114‑4122. Marseille, France [[link](https://www.aclweb.org/anthology/2020.lrec-1.507.pdf)] 
