@@ -4,7 +4,7 @@ title: Li Nguyen — Cambridge Linguistics
 
 # About
 
-Xin chào! Yaama! 
+Xin chào! 你好! Yaama! 
 
 <img id="my-picture" src="boat.jpg" width="300" height="300" align="right">
 
