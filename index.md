@@ -12,5 +12,5 @@ I am a linguist specialising in language variation and change, contact linguisti
 
 I am currently a Research Fellow at the [Australian National University](http://slll.cass.anu.edu.au/), a Research Associate at the [University of Cambridge](https://www.cst.cam.ac.uk/) and a Linguistics Consultant at the [Vietnamese Lexicography Centre](http://www.vietlex.com/). My main project at the moment is the ARDC-funded project [Language Data Commons of Australia (LDaCA)](https://ardc.edu.au/news/a-national-language-data-commons-for-australia/), which builds digital infrastruture for language collections in Australia, with my focus specifically on immigrant communities. 
 
-I am particularly interested in projects on language contact, language evolution, heritage speakers, linguistically and socially informed NLP, responsible research methods, and innovative technologies that can accommodate multilingual speakers. 
+I am particularly interested in projects on language contact, language evolution, heritage speakers, linguistically and socially informed NLP, responsible research methods, and innovative technologies that can accommodate multilingual speakers. Together with some colleagues in Cambridge, I occasionally provide consultancy services to organisations and companies in the area of Linguistics and Language Technology, so feel free to get in touch. 
 
