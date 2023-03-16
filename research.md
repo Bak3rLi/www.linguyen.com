@@ -14,9 +14,6 @@ Educational Technologies for Code-Switching: Current Practices, Difficulties and
 + **Nguyen, Li** (2016) and [McCallum, K.](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry). "Drowning in our own home: A metaphor-led discourse analysis of Australian news media reporting on maritime asylum seekers." *Communication Research and Practice* 2(2), pp.159-176. [doi:10.1080/22041451.2016.1188229](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1188229)
 + **Nguyen, Li** and [McCallum, K.](https://www.canberra.edu.au/about-uc/faculties/arts-design/courses/communications-staff/media-and-public-affairs/mccallum-kerry) (2015). "Critical metaphor analysis from a communication perspective: A case study of Australian news media discourse on immigration and asylum seekers". In D. D. Paterno, D. M. Bourk, and D. D. Matheson (Eds.), ANZCA 2015 *Rethinking Communication, Space and Identity* Vol.1, pp.1-11. Australia and New Zealand: ANZCA. [[link](https://researchsystem.canberra.edu.au/ws/portalfiles/portal/11134340/ANZCA15_Nguyen_McCallum.pdf)]
 
-### Book reviews
-+ **Nguyen, Li** (2019) 'Review:  [Torres Cacoullos, Rena](https://sites.psu.edu/rct11/) & [Travis, Catherine E](https://researchers.anu.edu.au/researchers/travis-ce). 2018, Bilingualism in the community: Code-switching and grammars in contact, Cambridge: Cambridge University Press.' *Corpora: Corpus-based Language Learning, Language Processing and Linguistics*, vol 14(2), pp.265-69, Edinburgh University Press. [doi:10.3366/cor.2019.0171](https://www.euppublishing.com/doi/full/10.3366/cor.2019.0171)
-
 ### Edited volume 
 
 + [Song, Chenchen](https://www.juliosong.com/), **L. Nguyen** and J. Baker (2019) *Cambridge Occasional Papers in Linguistics COPiL vol. 11.* [[link](http://www.ling.cam.ac.uk/COPIL/archive.html)]
