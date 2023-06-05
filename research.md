@@ -2,7 +2,7 @@
 ## Publications
 
 ### Selected Articles
-+ **Nguyen, Li**, [Mayeux, O.](https://sites.google.com/view/mayeux) and [Yuan, Z.](https://www.cl.cam.ac.uk/~zy249/) (Forthcoming) "Code-switching input for machine translation: A case study of Vietnamese--English data." *International Journal of Multilingualism* 
++ **Nguyen, Li**, [Mayeux, O.](https://sites.google.com/view/mayeux) and [Yuan, Z.](https://www.cl.cam.ac.uk/~zy249/) (Forthcoming) "Code-switching input for machine translation: A case study of Vietnamese--English data." *International Journal of Multilingualism*. 
 + [Li, Katrina Kechun](https://www.phonetics.mmll.cam.ac.uk/staff/katrina-kechun-li), **Nguyen, L.**, [Bryant, C.](https://www.cl.cam.ac.uk/~cjb255/), and Yoo, K. (Forthcoming) "Lexical tonal effects in code-switching: A comparative study of Cantonese, Mandarin and Vietnamese switching with English." *International Journal of Bilingualism*.
 + **Nguyen, Li**, [Bryant, C.](https://www.cl.cam.ac.uk/~cjb255/), [Mayeux, O.](https://sites.google.com/view/mayeux) and [Yuan, Z.](https://www.cl.cam.ac.uk/~zy249/) (Forthcoming) "How effective is machine translation on low-resource code-switching? A case study comparing human and automatic metrics." *Findings of the Association for Computational Linguistics: ACL 2023* 
 + **Nguyen, Li**, [Yuan, Z.](https://www.cl.cam.ac.uk/~zy249/), and [Seed, G.](https://www.cambridgeenglish.org/research-and-validation/meet-the-team/graham-seed/) (2022) " Building
