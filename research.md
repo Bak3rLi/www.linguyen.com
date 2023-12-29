@@ -25,9 +25,7 @@ Educational Technologies for Code-Switching: Current Practices, Difficulties and
 ### Selected Conference presentations & Invited Talks
 
 + Nov 2023 "Language Data Management in the 21st Century"
-— with [S. Musgrave](https://languages-cultures.uq.edu.au/profile/6696/simon-musgrave) and [P. Sefton](https://ptsefton.com/cv/)  *Australian Linguistics Society (ALS) Annual Meeting*, 29 November 2023, University of Sydney. 
-+ Sept 2023 "Beyond the name: Labelling ‘ethnic’ identities in Australia"  
-— with [H. Bou Orm](https://slll.cass.anu.edu.au/people/heba-bou-orm-0), [Q. Gan](https://slll.cass.anu.edu.au/people/gan-qiao) and [C. Travis](https://reporter.anu.edu.au/people/catherine-travis) *Sixth Forum on Englishes in Australia*, 22 September 2023, La Trobe University. 
+— with [S. Musgrave](https://languages-cultures.uq.edu.au/profile/6696/simon-musgrave) and [P. Sefton](https://ptsefton.com/cv/)  *Australian Linguistics Society (ALS) Annual Meeting*, 29 November 2023, University of Sydney.  
 + May 2022 "Tonal aspects of Cantonese-English code-switching in HLVC corpus"  
 — with K. Li and [C. Bryant](https://www.cl.cam.ac.uk/~cjb255/) *The 6th Workshop on Innovations in Cantonese Linguistics (WICL6)*, Online due to Covid. [[link](https://u.osu.edu/wicl/wicl-6/)]
 + June 2021 "Noncanonical pronominal items in Vietnamese and Chinese: Imposters or true pronouns?"  
