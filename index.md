@@ -12,7 +12,5 @@ I am a linguist specialising in language variation and change, contact linguisti
 
 I hold a PhD in Linguistics from the [University of Cambridge](https://www.cam.ac.uk/) and a Masters of General and Applied Linguistics (Advanced) from the [Australian National University](https://www.anu.edu.au/). I am currently Assistant Professor in Linguistics and Multilingual Studies at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. 
 
-I'm particularly interested in projects on language contact, language evolution, heritage speakers, linguistically and socially informed NLP, responsible research methods, and innovative technologies that can accommodate multilingual speakers. If you are interested in any of these areas and would like to collaborate, please feel free to get in touch. 
-
-I also occasionally provide consultancy services to organisations and companies in my area of expertise. 
+If you are interested in and would like to collaborate with me on any areas of my expertise, please feel free to get in touch. Currently, I am particularly invested in projects on cross-generational language variation and change, linguistically and socially informed NLP, and innovative technologies that can accommodate multilingual speakers. 
 
