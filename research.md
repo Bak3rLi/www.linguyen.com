@@ -8,4 +8,4 @@ For an updated list of my work, please see my [Google Scholar](https://scholar.g
 + as PI: with co-investigators [Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](https://sanakidwai.github.io/) **_Automatically standardising two multilingual code-switched corpora_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund), 2019
 + Cambridge International Scholarship, Cambridge Trust fullly funded PhD Grant, 2016-2020 
 + The Philological Society Fieldwork Grant, 2017 
-+ University of Canberra Oustanding Honours Thesis Dissemination Grant, 2014 
+
