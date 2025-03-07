@@ -1,56 +1,137 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <title>{{ page.title | default: "Li Nguyen" }}</title>
+
+
     <script src="/assets/js/extras.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-	  
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
   </head>
-  <body onLoad="initMenu();">
-    <div class="wrapper">
-      <header>
-        <h1 class="title">{{site.title}}</h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-        
-	<div id="menu">
-        <span class="main-menu menu-item"><a href="{{ "/" | absolute_url }}#about">About</a></span>
-        <span class="main-menu menu-item"><a href="{{ "/" | absolute_url }}research">Research</a></span>
-        <span class="sub-menu menu-item"><a href="{{ "/" | absolute_url }}research#publications">Publications</a></span>
-        <span class="sub-menu menu-item"><a href="{{ "/" | absolute_url }}research#researchgrants">Research Grants</a></span>
-        <span class="main-menu menu-item"><a href="{{ "/" | absolute_url }}contact">Contact</a></span>
-	</div>
-	      
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-      </header>
-      <section>
 
-      {{ content }}
 
-      </section>
-      <footer>
-      </footer>
+  <body>
+    <div
+      class="relative flex size-full min-h-screen flex-col bg-white group/design-root overflow-x-hidden"
+      style="font-family: 'Minion Pro', serif"
+    >
+      <div class="layout-container flex h-full grow flex-col">
+        <header
+          class="flex items-center justify-between whitespace-nowrap border-b border-solid border-b-[#f2f2f2] px-10 py-3"
+        >
+          <div class="flex items-center gap-4 text-[#141414]">
+            <div class="size-10">
+              <img
+                src="/linguistics.png"
+                alt="Linguistics Icon"
+                class="w-10 h-10"
+              />
+            </div>
+            <h2
+              class="text-[#141414] text-lg font-bold leading-tight tracking-[-0.015em]"
+            >
+              L. Nguyen
+            </h2>
+          </div>
+          <div class="flex flex-1 justify-end gap-8">
+            <div class="flex items-center gap-9">
+              <a href="https://www.linkedin.com/" target="_blank">
+                <img src="linkedin.png" alt="LinkedIn" width="30" height="30">
+              </a>
+              <a href="https://scholar.google.com/citations?user=LIoJxgcAAAAJ&hl=en" target="_blank">
+                <img
+                src="/googlescholar.png"
+                alt="Google Scholar Icon"
+                class="w-7 h-7"
+              />
+              </a>
+              <a href="mailto:li.nguyen@ntu.edu.sg">
+                <img src="/email.png" alt="Email Icon" class="w-7 h-7" />
+              </a>
+              
+            </div>
+          </div>
+        </header>
+        <div class="px-40 flex flex-1 justify-center py-5">
+          <div
+            class="layout-content-container flex flex-col max-w-[960px] flex-1"
+          >
+            <div class="flex p-4 @container">
+              <div class="flex w-full flex-col gap-4 items-center">
+                <div class="flex gap-4 flex-col items-center">
+                  <div
+                    class="bg-center bg-no-repeat aspect-square bg-cover rounded-full min-h-32 w-32"
+                    style="background-image: url(boat.jpg)"
+                  ></div>
+                  <div
+                    class="flex flex-col items-center justify-center justify-center"
+                  >
+                    <p
+                      class="text-[#141414] text-[22px] font-bold leading-tight tracking-[-0.015em] text-center"
+                    >
+                      Li Nguyen
+                    </p>
+                    <p
+                      class="text-[#757575] text-base font-normal leading-normal text-center"
+                    >
+                      Assistant Professor of Linguistics and Multilingual
+                      Studies at <br />
+                      Technological University (NTU), Singapore
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="pb-3">
+              <div class="flex border-b border-[#e0e0e0] px-4 justify-between">
+                <a
+                  class="flex flex-col items-center justify-center border-b-[3px] border-b-[#141414] text-[#141414] pb-[13px] pt-4 flex-1"
+                  href="{{ "/" | absolute_url }}about"
+                >
+                  <p
+                    class="text-[#141414] text-sm font-bold leading-normal tracking-[0.015em]"
+                  >
+                    About
+                  </p>
+                </a>
+                <a
+                  class="flex flex-col items-center justify-center border-b-[3px] border-b-transparent text-[#141414] pb-[13px] pt-4 flex-1"
+                  href="{{ "/" | absolute_url }}publications"
+                >
+                  <p
+                    class="text-[#141414] text-sm font-bold leading-normal tracking-[0.015em]"
+                  >
+                    Publications
+                  </p>
+                </a>
+                <a
+                  class="flex flex-col items-center justify-center border-b-[3px] border-b-transparent text-[#757575] pb-[13px] pt-4 flex-1"
+                  href="{{ "/" | absolute_url }}research"
+                >
+                  <p
+                    class="text-[#757575] text-sm font-bold leading-normal tracking-[0.015em]"
+                  >
+                    Research Grants
+                  </p>
+                </a>
+                <a
+                  class="flex flex-col items-center justify-center border-b-[3px] border-b-transparent text-[#757575] pb-[13px] pt-4 flex-1"
+                  href="{{ "/" | absolute_url }}contact"
+                >
+                  <p
+                    class="text-[#757575] text-sm font-bold leading-normal tracking-[0.015em]"
+                  >
+                    Contact
+                  </p>
+                </a>
+              </div>
+            </div>
+            {{ content }}
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
   </body>
 </html>
