@@ -1,134 +1,103 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     {% seo %}
-    <title>{{ page.title | default: "Li Nguyen" }}</title>
-
-
+    <title>{{ page.title | default: 'Li Nguyen' }}</title>
+    <link
+      rel="stylesheet"
+      href="{{ '/style.css?v=' | append: site.github.build_revision | relative_url }}"
+    />
     <script src="/assets/js/extras.js"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"
+    ></script>
   </head>
 
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      let currentPath = window.location.pathname;
+
+      let navLinks = document.querySelectorAll(".nav-item");
+
+      navLinks.forEach((link) => {
+        let linkPath = new URL(link.href, window.location.origin).pathname;
+
+        if (linkPath === currentPath) {
+          link.classList.add("active");
+        } else {
+          link.classList.remove("active");
+        }
+      });
+    });
+  </script>
 
   <body>
-    <div
-      class="relative flex size-full min-h-screen flex-col bg-white group/design-root overflow-x-hidden"
-      style="font-family: 'Minion Pro', serif"
-    >
-      <div class="layout-container flex h-full grow flex-col">
-        <header
-          class="flex items-center justify-between whitespace-nowrap border-b border-solid border-b-[#f2f2f2] px-10 py-3"
-        >
-          <div class="flex items-center gap-4 text-[#141414]">
-            <div class="size-10">
-              <img
-                src="/linguistics.png"
-                alt="Linguistics Icon"
-                class="w-10 h-10"
-              />
-            </div>
-            <h2
-              class="text-[#141414] text-lg font-bold leading-tight tracking-[-0.015em]"
-            >
-              L. Nguyen
-            </h2>
+    <div class="container">
+      <div class="layout-container">
+        <header class="header">
+          <div class="header-left">
+            <img src="/linguistics.png" alt="Linguistics Icon" class="icon" />
+            <h2 class="header-title">L. Nguyen</h2>
           </div>
-          <div class="flex flex-1 justify-end gap-8">
-            <div class="flex items-center gap-9">
-              <a href="https://www.linkedin.com/" target="_blank">
-                <img src="linkedin.png" alt="LinkedIn" width="30" height="30">
+          <div class="header-right">
+            <div class="social-icons">
+              <a
+                href="https://www.linkedin.com/in/li-nguyen-16309b50/"
+                target="_blank"
+              >
+                <img src="linkedin.png" alt="LinkedIn" class="social-icon" />
               </a>
-              <a href="https://scholar.google.com/citations?user=LIoJxgcAAAAJ&hl=en" target="_blank">
+              <a
+                href="https://scholar.google.com/citations?user=LIoJxgcAAAAJ&hl=en"
+                target="_blank"
+              >
                 <img
-                src="/googlescholar.png"
-                alt="Google Scholar Icon"
-                class="w-7 h-7"
-              />
+                  src="/googlescholar.png"
+                  alt="Google Scholar Icon"
+                  class="social-icon"
+                />
               </a>
               <a href="mailto:li.nguyen@ntu.edu.sg">
-                <img src="/email.png" alt="Email Icon" class="w-7 h-7" />
+                <img src="/email.png" alt="Email Icon" class="social-icon" />
               </a>
-              
             </div>
           </div>
         </header>
-        <div class="px-40 flex flex-1 justify-center py-5">
-          <div
-            class="layout-content-container flex flex-col max-w-[960px] flex-1"
-          >
-            <div class="flex p-4 @container">
-              <div class="flex w-full flex-col gap-4 items-center">
-                <div class="flex gap-4 flex-col items-center">
-                  <div
-                    class="bg-center bg-no-repeat aspect-square bg-cover rounded-full min-h-32 w-32"
-                    style="background-image: url(boat.jpg)"
-                  ></div>
-                  <div
-                    class="flex flex-col items-center justify-center justify-center"
-                  >
-                    <p
-                      class="text-[#141414] text-[22px] font-bold leading-tight tracking-[-0.015em] text-center"
-                    >
-                      Li Nguyen
-                    </p>
-                    <p
-                      class="text-[#757575] text-base font-normal leading-normal text-center"
-                    >
-                      Assistant Professor of Linguistics and Multilingual
-                      Studies at <br />
-                      Technological University (NTU), Singapore
-                    </p>
-                  </div>
-                </div>
+
+        <div class="content-wrapper">
+          <div class="layout-content-container">
+            <div class="profile-section">
+              <div
+                class="profile-image"
+                style="background-image: url('boat.jpg')"
+              ></div>
+              <div class="profile-info">
+                <p class="name">Li Nguyen</p>
+                <p class="role">
+                  Assistant Professor of Linguistics and Multilingual Studies at
+                  <br />
+                  Nanyang Technological University (NTU), Singapore
+                </p>
               </div>
             </div>
-            <div class="pb-3">
-              <div class="flex border-b border-[#e0e0e0] px-4 justify-between">
-                <a
-                  class="flex flex-col items-center justify-center border-b-[3px] border-b-[#141414] text-[#141414] pb-[13px] pt-4 flex-1"
-                  href="{{ "/" | absolute_url }}about"
-                >
-                  <p
-                    class="text-[#141414] text-sm font-bold leading-normal tracking-[0.015em]"
-                  >
-                    About
-                  </p>
-                </a>
-                <a
-                  class="flex flex-col items-center justify-center border-b-[3px] border-b-transparent text-[#141414] pb-[13px] pt-4 flex-1"
-                  href="{{ "/" | absolute_url }}publications"
-                >
-                  <p
-                    class="text-[#141414] text-sm font-bold leading-normal tracking-[0.015em]"
-                  >
-                    Publications
-                  </p>
-                </a>
-                <a
-                  class="flex flex-col items-center justify-center border-b-[3px] border-b-transparent text-[#757575] pb-[13px] pt-4 flex-1"
-                  href="{{ "/" | absolute_url }}research"
-                >
-                  <p
-                    class="text-[#757575] text-sm font-bold leading-normal tracking-[0.015em]"
-                  >
-                    Research Grants
-                  </p>
-                </a>
-                <a
-                  class="flex flex-col items-center justify-center border-b-[3px] border-b-transparent text-[#757575] pb-[13px] pt-4 flex-1"
-                  href="{{ "/" | absolute_url }}contact"
-                >
-                  <p
-                    class="text-[#757575] text-sm font-bold leading-normal tracking-[0.015em]"
-                  >
-                    Contact
-                  </p>
-                </a>
-              </div>
+            <div class="nav-links">
+              <a class="nav-item" href="{{ '/' | absolute_url }}about">
+                <p class="nav-text">About</p>
+              </a>
+              <a class="nav-item" href="{{ '/' | absolute_url }}publications">
+                <p class="nav-text">Publications</p>
+              </a>
+              <a class="nav-item" href="{{ '/' | absolute_url }}research">
+                <p class="nav-text">Research Grants</p>
+              </a>
+              <a class="nav-item" href="{{ '/' | absolute_url }}contact">
+                <p class="nav-text">Contact</p>
+              </a>
             </div>
-            {{ content }}
-            </div>
+
+            <div class="content-body">{{ content }}</div>
           </div>
         </div>
       </div>
