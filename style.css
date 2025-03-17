@@ -1,6 +1,7 @@
 /* Global Styles */
 body {
   font-family: "Minion Pro", serif;
+  font-size: 17px;
   margin: 0;
   padding: 0;
 }
@@ -174,7 +175,7 @@ body {
 
 .body-text {
   color: #141414;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: normal;
   line-height: 1.5;
   padding-left: 1rem;
