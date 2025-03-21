@@ -19,7 +19,7 @@ _Vietspeech around the world: cross-generational language variation and change i
 
 - **Principal Investigator (PI) (2019)**  
   _Automatically Standardising Two Multilingual Code-Switched Corpora_  
-  **Co-investigators:** [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), [Christopher Bryant](https://chrisjbryant.github.io/), x[Sana Kidwai](https://sanakidwai.github.io/)  
+  **Co-investigators:** [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), [Christopher Bryant](https://chrisjbryant.github.io/), [Sana Kidwai](https://sanakidwai.github.io/)  
   [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/incubator)
 
 - **Cambridge International Scholarship (2016-2020)**  
