@@ -1,0 +1,19 @@
+.design-root {
+  font-family: minion-pro, serif;
+  font-style: normal;
+  font-weight: 400;
+  position: relative;
+  size: 100%;
+  background-color: white;
+  overflow-x: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.layout-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 100%;
+}

@@ -5,6 +5,9 @@ title: Research
 
 # Selected Research Grants
 
+- **NTU Start-up Grant (SUG) (2024-2027)**  
+_Vietspeech around the world: cross-generational language variation and change in Vietnamese diasporas_
+
 - **Research Fellow (2023)**  
   _Language Data Commons Australia (LDaCA)_ - [Australian Research Data Commons Funded](https://ardc.edu.au/project/language-data-commons-of-australia/)  
   **PI:** [Catherine Travis](https://researchportalplus.anu.edu.au/en/persons/catherine-travis), Australian National University

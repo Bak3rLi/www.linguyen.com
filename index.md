@@ -28,3 +28,7 @@ I’m particularly interested in:
 - Tech innovations for multilingual speakers
 
 ![Email Icon](email.png){: class="text-icon"} Open to collaborations! Feel free to [get in touch](mailto:li.nguyen@ntu.edu.sg).
+
+# News
+
+**March 2025:** &nbsp;&nbsp;&nbsp; Abstract accepted at IAWE conference, Germany
