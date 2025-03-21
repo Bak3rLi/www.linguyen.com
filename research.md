@@ -1,11 +1,28 @@
-# Research
-## Publications
-For an updated list of my work, please see my [Google Scholar](https://scholar.google.com/citations?user=LIoJxgcAAAAJ&hl=en) page. 
+---
+layout: default
+title: Research
+---
 
-## Selected Research Grants
-+ as Research Fellow: with ANU PI [Catherine Travis](https://researchers.anu.edu.au/researchers/travis-ce) **_Language Data Commons Australia (LDaCA)_**, [Australian Research Data Commons Funded](https://ardc.edu.au/project/language-data-commons-of-australia-ldaca/), 2023
-+ as PI: with co-investigators [Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/), [Kayeon Yoo](https://www.phonetics.mmll.cam.ac.uk/staff/kayeon-yoo) & [Katrina Li](https://www.phonetics.mmll.cam.ac.uk/staff/kechunkatrina-li/) **_Using tone to predict code-switching in English-Vietnamese/Cantonese/Mandarin_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund), 2021 
-+ as PI: with co-investigators [Theresa Biberauer](https://www.mml.cam.ac.uk/dr-theresa-biberauer),  [Christopher Bryant](https://www.cl.cam.ac.uk/~cjb255/) & [Sana Kidwai](https://sanakidwai.github.io/) **_Automatically standardising two multilingual code-switched corpora_**, [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/funding/language-sciences-research-incubator-fund), 2019
-+ Cambridge International Scholarship, Cambridge Trust fullly funded PhD Grant, 2016-2020 
-+ The Philological Society Fieldwork Grant, 2017 
+# Selected Research Grants
 
+- **NTU Start-up Grant (SUG) (2024-2027)**  
+_Vietspeech around the world: cross-generational language variation and change in Vietnamese diasporas_
+
+- **Research Fellow (2023)**  
+  _Language Data Commons Australia (LDaCA)_ - [Australian Research Data Commons Funded](https://ardc.edu.au/project/language-data-commons-of-australia/)  
+  **PI:** [Catherine Travis](https://researchportalplus.anu.edu.au/en/persons/catherine-travis), Australian National University
+
+- **Principal Investigator (PI) (2021)**  
+  _Using Tone to Predict Code-Switching in English-Vietnamese/Cantonese/Mandarin_  
+  **Co-investigators:** [Christopher Bryant](https://chrisjbryant.github.io/), [Kayeon Yoo](https://www.phonetics.mmll.cam.ac.uk/staff/kayeon-yoo), [Katrina Li](https://www.phonetics.mmll.cam.ac.uk/staff/kechunkatrina-li)  
+  [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/incubator)
+
+- **Principal Investigator (PI) (2019)**  
+  _Automatically Standardising Two Multilingual Code-Switched Corpora_  
+  **Co-investigators:** [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), [Christopher Bryant](https://chrisjbryant.github.io/), x[Sana Kidwai](https://sanakidwai.github.io/)  
+  [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/incubator)
+
+- **Cambridge International Scholarship (2016-2020)**  
+  _Cambridge Trust — Fully funded PhD Grant_
+
+- **The Philological Society Fieldwork Grant (2017)**

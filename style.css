@@ -1,0 +1,242 @@
+/* Global Styles */
+body {
+  font-family: "Minion Pro", serif;
+  font-size: 17px;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: white;
+  overflow-x: hidden;
+}
+
+.layout-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  flex-grow: 1;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  white-space: nowrap;
+  border-bottom: 1px solid #f2f2f2;
+  padding: 0.5rem 2.5rem;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: #141414;
+}
+
+.icon {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.header-title {
+  font-size: 1.125rem;
+  font-weight: bold;
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+  color: #141414;
+}
+
+.header-right {
+  display: flex;
+  justify-content: flex-end;
+  gap: 2rem;
+}
+
+.social-icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.social-icon {
+  width: 30px;
+  height: 30px;
+}
+
+/* Profile Section */
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.layout-content-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 960px;
+  flex-grow: 1;
+}
+
+.profile-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.profile-image {
+  width: 128px;
+  height: 128px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
+
+.profile-info {
+  text-align: center;
+}
+
+.name {
+  font-size: 22px;
+  font-weight: bold;
+  color: #141414;
+}
+
+.role {
+  font-size: 16px;
+  color: #757575;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #e0e0e0;
+  width: 100%;
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex: 1;
+  text-decoration: none;
+}
+
+/* Default text style */
+.nav-text {
+  font-size: 16px;
+  font-weight: bold;
+  color: #757575; /* Default text color */
+}
+
+/* Active tab styling */
+.nav-item.active {
+  border-bottom: 2px solid #141414;
+}
+
+/* Ensure text color changes when active */
+.nav-item.active .nav-text {
+  color: #141414;
+}
+
+/* Make non-active tabs have a transparent border */
+.nav-item:not(.active) {
+  border-bottom: 3px solid transparent;
+}
+
+/* Content Body */
+.content-body {
+  padding-bottom: 3rem;
+  padding-top: 1rem;
+  width: 100%;
+}
+
+.text-icon {
+  display: inline-block;
+  width: 1.75rem;
+  height: 1.75rem;
+  vertical-align: middle;
+}
+
+/* Body Section */
+.body-title {
+  color: #141414;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.body-text {
+  color: #141414;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.5;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.text-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.contact-link {
+  color: #141414;
+  text-decoration: none;
+}
+
+.contact-link:hover {
+  color: #2300bf;
+  text-decoration: underline;
+}
+
+.text-link {
+  color: #2300bf;
+  text-decoration: none;
+}
+
+.text-link:hover {
+  color: #2300bf;
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .header-title {
+    font-size: 1.25rem;
+  }
+
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+
+  .profile-image {
+    width: 100px;
+    height: 100px;
+  }
+
+  .name {
+    font-size: 18px;
+  }
+
+  .role {
+    font-size: 14px;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .nav-item {
+    padding: 12px 0;
+  }
+}

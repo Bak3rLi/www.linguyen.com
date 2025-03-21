@@ -1,16 +1,34 @@
 ---
-title: Li Nguyen — Cambridge Linguistics
+layout: default
+title: About
 ---
 
 # About
 
-Xin chào! 你好! Yaama! 
+Xin chào! 你好! Yaama!
 
-<img id="my-picture" src="boat.jpg" width="300" height="300" align="right">
+I am a linguist specialising in language variation and change, contact linguistics, and computational sociolinguistics. My research is largely corpus-based, focusing on bilingual contact phenomena and multilingual language use.
 
-I am a linguist specialising in language variation and change, contact linguistics, and computational sociolinguistics. Much of my work is corpora-based and focuses on contact phenomena in bilingual settings. My interest in Linguistics is, however, broad. I have written on a wide range of topics, including variationist linguistics, heritage language, syntax-pragmatic interface in bicultural/bilingual contexts, multilingual NLP, and NLP for spoken low-resource varieties. 
+My work spans a broad range of topics, including:
 
-I hold a PhD in Linguistics from the [University of Cambridge](https://www.cam.ac.uk/) and a Masters of General and Applied Linguistics (Advanced) from the [Australian National University](https://www.anu.edu.au/). I am currently Assistant Professor in Linguistics and Multilingual Studies at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. 
+- Variationist linguistics
+- Heritage language
+- Syntax-pragmatic interface in bicultural/bilingual contexts
+- Multilingual NLP
+- NLP for spoken low-resource varieties
 
-If you would like to collaborate with me on any areas of my expertise, please feel free to get in touch. Currently, I am particularly invested in projects on language variation and change in ethnically diverse communities, sociolinguistically informed NLP, and innovative technologies that can accommodate multilingual speakers. 
+I hold a PhD in Linguistics from the [University of Cambridge](https://www.cam.ac.uk/) and a Master’s in General and Applied Linguistic (Advanced) from the [Australian National University](https://www.anu.edu.au/). I am currently Assistant Professor in Linguistics and Multilingual Studies at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore.
 
+# Current Interests and Collaboration
+
+I’m particularly interested in:
+
+- Language variation and change in ethnically diverse communities
+- Sociolinguistically informed NLP
+- Tech innovations for multilingual speakers
+
+![Email Icon](email.png){: class="text-icon"} Open to collaborations! Feel free to [get in touch](mailto:li.nguyen@ntu.edu.sg).
+
+# News
+
+**March 2025:** &nbsp;&nbsp;&nbsp; Abstract accepted at IAWE conference, Germany
