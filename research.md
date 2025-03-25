@@ -5,8 +5,8 @@ title: Research
 
 # Selected Research Grants
 
-- **NTU Start-up Grant (SUG) (2024-2027)**  
-_Vietspeech around the world: cross-generational language variation and change in Vietnamese diasporas_
+- **Principal Investigator (PI) (2024-2027)**  
+_Vietspeech around the world: cross-generational language variation and change in Vietnamese diasporas_ - NTU Start-up Grant (SUG)
 
 - **Research Fellow (2023)**  
   _Language Data Commons Australia (LDaCA)_ - [Australian Research Data Commons Funded](https://ardc.edu.au/project/language-data-commons-of-australia/)  
@@ -22,7 +22,7 @@ _Vietspeech around the world: cross-generational language variation and change i
   **Co-investigators:** [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer), [Christopher Bryant](https://chrisjbryant.github.io/), [Sana Kidwai](https://sanakidwai.github.io/)  
   [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/incubator)
 
-- **Cambridge International Scholarship (2016-2020)**  
+- **Cambridge International Scholarship Recipient (2016-2020)**  
   _Cambridge Trust — Fully funded PhD Grant_
 
 - **The Philological Society Fieldwork Grant (2017)**
