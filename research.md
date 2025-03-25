@@ -15,7 +15,7 @@ _Vietspeech around the world: cross-generational language variation and change i
 - **Principal Investigator (PI) (2021)**  
   _Using Tone to Predict Code-Switching in English-Vietnamese/Cantonese/Mandarin_ - _[Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/incubator)_
 
-  _**Co-investigators:** [Christopher Bryant](https://chrisjbryant.github.io/), [Kayeon Yoo](https://www.phonetics.mmll.cam.ac.uk/staff/kayeon-yoo), [Katrina Li](https://www.phonetics.mmll.cam.ac.uk/staff/kechunkatrina-li)_  
+  **Co-investigators:** [Christopher Bryant](https://chrisjbryant.github.io/), [Kayeon Yoo](https://www.phonetics.mmll.cam.ac.uk/staff/kayeon-yoo), [Katrina Li](https://www.phonetics.mmll.cam.ac.uk/staff/kechunkatrina-li)  
   
 - **Principal Investigator (PI) (2019)**  
   _Automatically Standardising Two Multilingual Code-Switched Corpora_ - [Cambridge Language Sciences Research Incubator Fund](https://www.languagesciences.cam.ac.uk/incubator) 
